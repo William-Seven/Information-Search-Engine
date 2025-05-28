@@ -1,0 +1,15 @@
+Title: Digitizing Historical Regesta: A Comparative Analysis of Computer Vision and Neural Network-Based OCR Methods
+
+Authors: Kramer, Dennis, Busch, Hannah, Neuefeind, Claes
+
+Keywords: Regesta, Digital Humanities, OCR, Philipp Jaffé
+
+Publication date: 2025-05-22
+
+Description:
+
+Regesta are brief abstracts of charters or other diplomatic documents. They constitute a vital resource for historians, offering a concise overview of primary legal documents and facilitating research. Digital processing enhances accessibility and expands research capabilities. This poster presents a comparative analysis of classical computer vision techniques and neural network-based methods for the automatic transcription of regesta collections. Despite the superior accuracy of neural networks, classical methods offer a more cost-effective alternative. This study uses Philipp Jaff&eacute;'s "Regesta Pontificum Romanorum" from the "Forming Europe" project to evaluate this trade-off. The complexity of the tabular layout and text segmentation represent significant challenges in this example. In such cases, classical techniques may remain a viable option, offering practical alternatives for cost-effective transcription.
+
+
+Contents:
+ - DHBenelux-2025_Digitizing_Historical_Regesta.pdf

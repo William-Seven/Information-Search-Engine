@@ -8,7 +8,8 @@ from nltk.corpus import stopwords
 from bs4 import BeautifulSoup
 from sklearn.metrics.pairwise import cosine_similarity
 
-BASE_DIR = r"E:\WILLIAMZHANG\InfoKnowAcq\homework2"
+# 修改为相对路径
+BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
 nltk.download('stopwords')
 
 STOP_WORDS = set(stopwords.words('english'))
@@ -27,15 +28,15 @@ def preprocess_query(text):
 
 
 def load_index_data():
-    with open(f"{BASE_DIR}/keys.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'keys.json'), 'r', encoding='utf-8') as f:
         keywords = json.load(f)
-    with open(f"{BASE_DIR}/doc_vectors.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'doc_vectors.json'), 'r', encoding='utf-8') as f:
         doc_vectors = json.load(f)
-    with open(f"{BASE_DIR}/processed_docs.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'processed_docs.json'), 'r', encoding='utf-8') as f:
         docs = json.load(f)
-    with open(f"{BASE_DIR}/inverted_index.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'inverted_index.json'), 'r', encoding='utf-8') as f:
         inverted_index = json.load(f)
-    with open(f"{BASE_DIR}/vectorizer.pkl", 'rb') as f:
+    with open(os.path.join(BASE_DIR, 'vectorizer.pkl'), 'rb') as f:
         vectorizer = pickle.load(f)
     return keywords, doc_vectors, docs, inverted_index, vectorizer
 
@@ -57,9 +58,8 @@ def save_evaluation(query, ranked_results, doc_map):
                 rel = int(input("Relevant? (1 = yes, 0 = no): "))
                 if rel in [0, 1]:
                     break
-            except:
-                pass
-            print("Invalid input. Please enter 1 or 0.")
+            except ValueError:
+                print("Invalid input. Please enter 1 or 0.")
         eval_data["results"].append({
             "doc_id": doc_id,
             "title": doc['title'],
@@ -68,15 +68,9 @@ def save_evaluation(query, ranked_results, doc_map):
         })
 
     save_path = os.path.join(BASE_DIR, "manual_eval.json")
-    if os.path.exists(save_path):
-        with open(save_path, 'r', encoding='utf-8') as f:
-            all_evals = json.load(f)
-    else:
-        all_evals = []
-
-    all_evals.append(eval_data)
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, 'w', encoding='utf-8') as f:
-        json.dump(all_evals, f, indent=2, ensure_ascii=False)
+        json.dump(eval_data, f, indent=2, ensure_ascii=False)
     print(f"\nEvaluation saved to {save_path}")
 
 

@@ -1,0 +1,15 @@
+Title: Sentiment Analysis – Tools and Techniques
+
+Authors: Vijaya Haridas Pise
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>As we know that analysis help us to get root cause of problem. Sentiment analysis help us in various ways to improve business revenue, to improve quality of product, to understand market trend and so on. By analyzing customer feedback we can easily take decision about production and marketing. In this paper we will know about basic concepts of sentiment analysis. Process of sentiment analysis and also various tools and techniques used in sentiment analysis.</span></em>
+
+
+Contents:
+ - S0622111.pdf

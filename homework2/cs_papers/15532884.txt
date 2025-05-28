@@ -1,0 +1,15 @@
+Title: Effect of Library Data Base in Retrieving Information and Knowledge Discovering by HND II Students of Architectural Technology in Federal Polytechnic Ado-Ekiti
+
+Authors: Adedeji, Olusegun Ayodele
+
+Keywords: Database, Information, Knowledge, Architectural, The Federal Polytechnic Ado-Ekiti
+
+Publication date: 2025-05-28
+
+Description:
+
+<span lang="EN-IN">This study examines the effect of library data base in retrieving information and knowledge discovering by HND II students of Architectural Technology in Federal Polytechnic Ado Ekiti libraries. The research objectives<span>&nbsp; </span>were: To examine the effect of library database in retrieving information and knowledge discovery of HND II student&rsquo;s architectural Technology, To enhance the use of information retrieving available for library service to HND II students in architectural Technology, To identify the ways to improve the use of library information retrieving in provision of library database to discovery knowledge in HND II student&rsquo;s architectural Technology The study adopted quantitative research methodology and area consisted of fifty<span>&nbsp; </span>(50) students in Architectural Technology in Federal Polytechnic Ado Ekiti librarians from all the study form questionnaire, and fifty (50) responses were collected and analyzed using simple percentage. The study&rsquo;s findings revealed that librarians need to possess technical competency in algorithms and have a wide range of abilities such as domain-specific knowledge in library science, strong analytical skills, and good communication abilities in order to use data mining techniques for knowledge discovery in academic libraries. The study concluded that the fact that these abilities are so widely valued highlights how crucial it is to use data mining to enhance decision-making and library services. The study recommended that academic Libraries should invest in professional development programs to enhance their librarians' technical proficiency in algorithms, analytical skills, and communication.</span>
+
+
+Contents:
+ - Adedeji et al.pdf

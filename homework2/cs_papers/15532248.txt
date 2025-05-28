@@ -1,0 +1,15 @@
+Title: IoT Enhanced Fitness Tracker
+
+Authors: Shobha S. Metkari, Disha R. Kale, Urmila R. Khandekar, Suranjali B. Jagtap
+
+Keywords: IoT, Sensor, Artificial Intelligence, Software, Fitness band
+
+Publication date: 2025-05-28
+
+Description:
+
+<em><span lang="EN-US">Global fitness club development is accelerating due to the<span> </span>expansion of the<span> </span>international economy.<span> </span>In the meantime,<span> </span>the fitness sector is expanding, particularly among metropolitan white-collar workers. People need more scientific and useful direction to build their bodies in the current situations. In this work,<span> </span>we<span> </span>develop<span> </span>a<span> </span>fitness<span> </span>system<span> </span>based<span> </span>on<span> </span>the<span> </span>Internet<span> </span>of<span> </span>Things (IoT) to track the health conditions of exercisers. Exercisers can receive guidance from the system. Sensors and fitness bands gather exercise data while you exercise. These data are then forwarded to the system for analysis. This type of system's architecture is a trend for fitness applications in the future.</span></em>
+
+
+Contents:
+ - IoT Enhanced Fitness Tracker -HBRP Publication.pdf

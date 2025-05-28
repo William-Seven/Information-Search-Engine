@@ -1,0 +1,23 @@
+Title: Mapping heterogeneous landscapes using sentinel-2 imagery and machine learning algorithms: A case of the Dindéresso classified forest
+
+Authors: Boalidioa, Tankoano
+
+Keywords: Landscapes, Machine learning, Remote sensing, Protected areas, Burkina Faso
+
+Publication date: 2024-10-12
+
+Description:
+
+The anthropization of natural ecosystems has not excluded the domain classified by the State. As a result, the landscape of protected areas such as the Dinderesso Classified Forest is highly heterogeneous. The overall objective was to assess the performance of machine learning algorithms in better mapping the land use classes of the Dinderesso Classified Forest. To do this, a Sentinel-2 image and information collected in the field were used. The Sentinel-2 image was classified using Random Forest and Support Vector Machine algorithms. 850 regions of interest were selected for model training and validation. Random Forest performed best, with a Kappa coefficient of 91.49% compared with 90.17% for Support Vector Machine. The F-score for the Bare land and Agroforestry parks class was the highest (0.98) and the Gallery and Dense Vegetation class had the lowest F-score (0.82). Both algorithms showed high levels of performance, so they are suitable for classifying heterogeneous landscapes. The proportion of the Bare land and Agroforestry parks class was 29.29% compared with 70.71% for the natural formation classes (shrub savannahs, tree savannahs, Gallery, and Dense Vegetation). Given the level of anthropization of the Classified Forest, measures need to be taken to limit this process to conserve biodiversity.
+
+
+published by the&nbsp;<strong> <a href="https://innspub.net/journal-of-biodiversity-and-environmental-sciences/">Journal of Biodiversity and Environmental Sciences (JBES)</a></strong>
+
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+
+Contents:
+ - JBES-V25-No4-p122-131.pdf

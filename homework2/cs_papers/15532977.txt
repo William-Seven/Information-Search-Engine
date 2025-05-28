@@ -1,0 +1,15 @@
+Title: Bidirectional English to Wolaytta Machine Translation Using a Hybrid Approach
+
+Authors: Elisaye Bekele Milke
+
+Keywords: Natural Language Processing, English-Wolaytta Machine Translation, Machine Translation, bidirectional Machine Translation
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>As a part of natural language processing (NLP), machine translation focuses on automated techniques to produce target language text from the source language text. In this study, we combined two approaches: the rule-based MT approach and the statistical MT approach. Sentence reordering, Language model, Translation models, and decoding comprise the system. POS tagging was used to reorder the sentence more comparably, the IRSTLM tool was used to create language models for English, and the Wolaytta, Giza++ tool was used for translation. To ensure mutual translation, two language models have been developed. Four phases of experiments are carried out on the collected dataset. Phases of experimentation include preprocessing on the parallel corpus, language modelling, training the translation model, and tuning the translation system. For both side translations, the BLEU score assessed the translation accuracy from Wolaytta to English as 46.31 % and from English to Wolaytta as 56.56%.
+
+
+Contents:
+ - B102814020125.pdf

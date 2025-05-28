@@ -1,0 +1,20 @@
+Title: Troubleshooting Dynamic Investigation Based on Reasoning Techniques by Artificial Intelligence Framework
+
+Authors: Shirke Akash Uday
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+<div>
+
+<em><span>The increasing complexity of modern systems, such as IoT networks, distributed software architectures, and cloud-based infrastructures, demands intelligent approaches for effective troubleshooting. Traditional diagnostic methods often fall short when dealing with dynamic environments that evolve in real time. This paper explores the use of reasoning techniques within an Artificial Intelligence (AI) framework to facilitate troubleshooting in dynamic systems. By integrating deductive, inductive, and abductive reasoning, the proposed AI- driven framework aims to enable real-time, efficient, and scalable diagnosis of issues across a wide range of domains. Through case studies and applications in software systems, IoT devices, and network management, we demonstrate the potential of AI in improving the troubleshooting process.</span></em>
+
+</div>
+
+<em><span>&nbsp;</span></em>
+
+
+Contents:
+ - S0622181.pdf

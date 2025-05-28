@@ -1,0 +1,219 @@
+Title: Modelo de Red Inferencial Basado en Lógica Simbólica y Lógica Difusa para la Evaluación de Candidatos al Tribunal de Disciplina Judicial,  México 2025
+
+Authors: Medel-Ramírez, Carlos
+
+Keywords: 
+
+Publication date: 2025-05-28
+
+Description:
+<h3>Descripci&oacute;n t&eacute;cnica con enfoque cient&iacute;fico del contenido: <em>Implementaci&oacute;n computacional del modelo l&oacute;gico de evaluaci&oacute;n</em></h3>
+
+
+
+El apartado 3.5 del documento <strong>&ldquo;Modelo l&oacute;gico de evaluaci&oacute;n &ndash; Implementaci&oacute;n computacional&rdquo;</strong> presenta una sistematizaci&oacute;n rigurosa y reproducible del proceso de evaluaci&oacute;n de candidaturas mediante un enfoque computacional que integra l&oacute;gica difusa, estad&iacute;stica bayesiana y programaci&oacute;n cient&iacute;fica en Python. A continuaci&oacute;n, se detalla el contenido desde una perspectiva t&eacute;cnica y cient&iacute;fica:
+
+
+
+<h4>1. <strong>Lenguaje y entorno de desarrollo</strong></h4>
+
+El modelo se implement&oacute; en <strong>Python 3.12</strong>, aprovechando bibliotecas especializadas:
+
+<ul>
+<li>
+
+<code>NumPy</code> para operaciones vectorizadas y eficientes,
+
+</li>
+<li>
+
+<code>Pandas</code> para la gesti&oacute;n y an&aacute;lisis estructurado de datos,
+
+</li>
+<li>
+
+<code>scikit-fuzzy (skfuzzy)</code> para la <strong>l&oacute;gica difusa</strong>, y
+
+</li>
+<li>
+
+<code>PyMC v5</code> para la <strong>modelaci&oacute;n probabil&iacute;stica bayesiana</strong>.
+
+</li>
+<li>
+
+<code>SQLite</code> como soluci&oacute;n ligera para almacenar resultados y garantizar trazabilidad.
+
+</li>
+</ul>
+
+La instalaci&oacute;n del entorno se gestiona mediante <code>conda</code>, lo que asegura la replicabilidad del entorno virtual:
+
+<div>
+<div>bash</div>
+<div>
+<div>
+<div>Copiar<span>Editar</span></div>
+</div>
+</div>
+<div dir="ltr"><code>conda create -n tdj_eval python=3.12 numpy pandas scikit-fuzzy pymc matplotlib
+conda activate tdj_eval
+</code></div>
+</div>
+
+
+<h4>2. <strong>Proceso algor&iacute;tmico y l&oacute;gica del modelo</strong></h4>
+
+La l&oacute;gica inferencial computacional sigue los siguientes pasos:
+
+<h5>a) <strong>Carga y preprocesamiento de datos</strong></h5>
+
+Se importa una base en formato <code>.xlsx</code> que contiene las variables relevantes de evaluaci&oacute;n de candidatos.
+
+<h5>b) <strong>Normalizaci&oacute;n</strong></h5>
+
+Las variables se transforman a escala continua entre 0 y 1:
+
+
+<span><span><span>Jnorm=J&minus;19,Knorm=K&minus;19,Rnorm=1&minus;R&minus;12J_{\text{norm}} = \frac{J - 1}{9}, \quad K_{\text{norm}} = \frac{K - 1}{9}, \quad R_{\text{norm}} = 1 - \frac{R - 1}{2}</span><span><span><span><span>J</span><span><span><span><span><span><span><span>norm</span></span></span></span><span></span></span></span></span></span><span>=</span></span><span><span><span><span><span><span>9<span>J</span><span>&minus;</span>1</span><span></span></span></span></span></span><span>,</span><span><span>K</span><span><span><span><span><span><span><span>norm</span></span></span></span><span></span></span></span></span></span><span>=</span></span><span><span><span><span><span><span>9<span>K</span><span>&minus;</span>1</span><span></span></span></span></span></span><span>,</span><span><span>R</span><span><span><span><span><span><span><span>norm</span></span></span></span><span></span></span></span></span></span><span>=</span></span><span><span>1</span><span>&minus;</span></span><span><span><span><span><span><span>2<span>R</span><span>&minus;</span>1</span><span></span></span></span></span></span></span></span></span></span>
+
+
+Donde:
+
+<ul>
+<li>
+
+<span><span>JJ</span><span><span><span>J</span></span></span></span>: &Iacute;ndice de independencia
+
+</li>
+<li>
+
+<span><span>KK</span><span><span><span>K</span></span></span></span>: &Iacute;ndice de conocimiento jur&iacute;dico
+
+</li>
+<li>
+
+<span><span>RR</span><span><span><span>R</span></span></span></span>: Nivel de riesgo asociado al perfil
+
+</li>
+</ul>
+<h5>c) <strong>Fuzzificaci&oacute;n</strong></h5>
+
+Se aplican funciones de membres&iacute;a difusa tipo sigmoide:
+
+
+<span><span><span>&mu;alto(x)=11+e&minus;12(x&minus;0.6)\mu_{\text{alto}}(x) = \frac{1}{1 + e^{-12(x - 0.6)}}</span><span><span><span><span>&mu;</span><span><span><span><span><span><span><span>alto</span></span></span></span><span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span>=</span></span><span><span><span><span><span><span>1<span>+</span><span>e</span><span><span><span><span>&minus;12<span>(</span><span>x</span><span>&minus;</span>0.6<span>)</span></span></span></span></span>1</span><span></span></span></span></span></span></span></span></span></span>
+
+
+Y para el riesgo:
+
+
+<span><span><span>&mu;bajo_riesgo(x)=x(funcioˊn&nbsp;identidad)\mu_{\text{bajo\_riesgo}}(x) = x \quad (\text{funci&oacute;n identidad})</span><span><span><span><span>&mu;</span><span><span><span><span><span><span><span>bajo_riesgo</span></span></span></span><span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span>=</span></span><span><span>x</span><span>(</span><span><span>funci</span><span><span><span><span><span>o</span><span><span>ˊ</span></span></span></span></span></span><span>n&nbsp;identidad</span></span><span>)</span></span></span></span></span>
+
+<h5>d) <strong>Evaluaci&oacute;n de reglas difusas</strong></h5>
+
+Ejemplo para una regla (R1) basada en la conjunci&oacute;n m&iacute;nima:
+
+
+<span><span><span>r1=min⁡(&mu;alto(Jnorm),&mu;alto(Knorm),&mu;bajo_riesgo(Rnorm))r_1 = \min\left( \mu_{\text{alto}}(J_{\text{norm}}), \mu_{\text{alto}}(K_{\text{norm}}), \mu_{\text{bajo\_riesgo}}(R_{\text{norm}}) \right)</span><span><span><span><span>r</span><span><span><span><span><span><span>1</span></span></span><span></span></span></span></span></span><span>=</span></span><span><span>min</span><span><span><span>(</span></span><span><span>&mu;</span><span><span><span><span><span><span><span>alto</span></span></span></span><span></span></span></span></span></span><span>(</span><span><span>J</span><span><span><span><span><span><span><span>norm</span></span></span></span><span></span></span></span></span></span><span>)</span><span>,</span><span><span>&mu;</span><span><span><span><span><span><span><span>alto</span></span></span></span><span></span></span></span></span></span><span>(</span><span><span>K</span><span><span><span><span><span><span><span>norm</span></span></span></span><span></span></span></span></span></span><span>)</span><span>,</span><span><span>&mu;</span><span><span><span><span><span><span><span>bajo_riesgo</span></span></span></span><span></span></span></span></span></span><span>(</span><span><span>R</span><span><span><span><span><span><span><span>norm</span></span></span></span><span></span></span></span></span></span><span>)</span><span><span>)</span></span></span></span></span></span></span>
+
+<h5>e) <strong>C&aacute;lculo del &iacute;ndice sint&eacute;tico <span><span>EkE_k</span><span><span><span><span>E</span><span><span><span><span><span><span>k</span></span></span><span></span></span></span></span></span></span></span></span></strong></h5>
+
+El &iacute;ndice de evaluaci&oacute;n <span><span>EkE_k</span><span><span><span><span>E</span><span><span><span><span><span><span>k</span></span></span><span></span></span></span></span></span></span></span></span> se construye como una combinaci&oacute;n ponderada de cinco componentes:
+
+
+<span><span><span>Ek=w1&sdot;r1+w2&sdot;&mu;alto(Knorm)+w3&sdot;Rnorm+w4&sdot;(Poderes3)+w5&sdot;Sentimiento&sum;wiE_k = \frac{ w_1 \cdot r_1 + w_2 \cdot \mu_{\text{alto}}(K_{\text{norm}}) + w_3 \cdot R_{\text{norm}} + w_4 \cdot \left(\frac{\text{Poderes}}{3}\right) + w_5 \cdot \text{Sentimiento} }{\sum w_i}</span><span><span><span><span>E</span><span><span><span><span><span><span>k</span></span></span><span></span></span></span></span></span><span>=</span></span><span><span><span><span><span><span><span>&sum;</span><span>w</span><span><span><span>i</span></span><span></span></span><span>w</span><span><span><span>1</span></span><span></span></span><span>&sdot;</span><span>r</span><span><span><span>1</span></span><span></span></span><span>+</span><span>w</span><span><span><span>2</span></span><span></span></span><span>&sdot;</span><span>&mu;</span><span><span><span><span>alto</span></span></span><span></span></span><span>(</span><span>K</span><span><span><span><span>norm</span></span></span><span></span></span><span>)</span><span>+</span><span>w</span><span><span><span>3</span></span><span></span></span><span>&sdot;</span><span>R</span><span><span><span><span>norm</span></span></span><span></span></span><span>+</span><span>w</span><span><span><span>4</span></span><span></span></span><span>&sdot;</span><span><span><span>(</span></span><span><span>3</span></span><span><span><span>Poderes</span></span></span><span></span><span><span>)</span></span></span><span>+</span><span>w</span><span><span><span>5</span></span><span></span></span><span>&sdot;</span><span>Sentimiento</span></span><span></span></span></span></span></span></span></span></span></span>
+
+
+Con pesos:
+
+
+<span><span><span>w⃗=(0.25,0.25,0.20,0.15,0.15)\vec{w} = (0.25, 0.25, 0.20, 0.15, 0.15)</span><span><span><span><span><span><span><span>w</span></span></span></span></span><span>=</span></span><span><span>(</span><span>0.25</span><span>,</span><span>0.25</span><span>,</span><span>0.20</span><span>,</span><span>0.15</span><span>,</span><span>0.15</span><span>)</span></span></span></span></span>
+
+<h5>f) <strong>Regla de decisi&oacute;n</strong></h5>
+
+Una decisi&oacute;n binaria es implementada con umbral <span><span>&tau;=0.75\tau = 0.75</span><span><span><span>&tau;</span><span>=</span></span><span><span>0.75</span></span></span></span>:
+
+
+<span><span><span>Seleccionado={1si&nbsp;Ek&ge;0.750si&nbsp;Ek&lt;0.75\text{Seleccionado} = \begin{cases} 1 &amp; \text{si } E_k \geq 0.75 \\ 0 &amp; \text{si } E_k &lt; 0.75 \end{cases}</span><span><span><span><span>Seleccionado</span></span><span>=</span></span><span><span><span><span>{</span></span><span><span><span><span><span><span>10</span><span></span></span></span></span><span><span><span><span><span>si&nbsp;</span><span>E</span><span><span><span>k</span></span><span></span></span><span>&ge;</span>0.75<span>si&nbsp;</span><span>E</span><span><span><span>k</span></span><span></span></span><span>&lt;</span>0.75</span><span></span></span></span></span></span></span></span></span></span></span></span>
+
+<h5>g) <strong>Almacenamiento y trazabilidad</strong></h5>
+
+Los resultados, incluyendo el valor del &iacute;ndice <span><span>EkE_k</span><span><span><span><span>E</span><span><span><span><span><span><span>k</span></span></span><span></span></span></span></span></span></span></span></span> y la decisi&oacute;n final, son almacenados en una base de datos <strong>SQLite</strong>, permitiendo auditor&iacute;as posteriores:
+
+<div>
+<div>python</div>
+<div>
+<div>
+<div>Copiar<span>Editar</span></div>
+</div>
+</div>
+<div dir="ltr"><code><span>with</span> sqlite3.connect(<span>"tdj_model.sqlite"</span>) <span>as</span> conn:
+    df.to_sql(<span>"evaluacion_tdj"</span>, conn, if_exists=<span>"replace"</span>, index=<span>False</span>)
+</code></div>
+</div>
+
+
+<h4>3. <strong>Visualizaci&oacute;n estructural: Diagrama de flujo</strong></h4>
+
+Se incorpora un diagrama de flujo l&oacute;gico (en notaci&oacute;n estilo <em>Mermaid.js</em>) que resume el pipeline computacional:
+
+<div>
+<div>mermaid</div>
+<div>
+<div>
+<div>Copiar<span>Editar</span></div>
+</div>
+</div>
+<div dir="ltr"><code>flowchart TD
+    A[Importar datos Excel] --&gt; B[Normalizar variables]
+    B --&gt; C[Fuzzificaci&oacute;n de membres&iacute;a]
+    C --&gt; D[Evaluaci&oacute;n de reglas]
+    D --&gt; E[C&aacute;lculo &iacute;ndice E_k]
+    E --&gt; F{E_k &ge; &tau;?}
+    F -- "S&iacute;" --&gt; G[Seleccionar candidato]
+    F -- "No" --&gt; H[Descartar]
+    G &amp; H --&gt; I[Guardar resultados en SQLite]
+</code></div>
+</div>
+
+
+<h4>4. <strong>Enfoque cient&iacute;fico y reproducibilidad</strong></h4>
+
+El modelo sigue principios de <strong>ciencia de datos reproducible</strong> (Provost &amp; Fawcett, 2013), integrando:
+
+<ul>
+<li>
+
+Evaluaciones automatizadas (<em>unit tests</em>),
+
+</li>
+<li>
+
+Notebooks de validaci&oacute;n,
+
+</li>
+<li>
+
+Trazabilidad completa mediante SQLite,
+
+</li>
+<li>
+
+Disponibilidad del c&oacute;digo en Zenodo (no incluido en el fragmento, pero referenciado).
+
+</li>
+</ul>
+
+
+<h4>Referencias:</h4>
+<ul>
+<li>
+
+Provost, F., &amp; Fawcett, T. (2013). <em>Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking</em>. O'Reilly Media.
+
+</li>
+</ul>
+
+Contents:
+ - Modelo lógico de evaluación  Implementación computacional.pdf

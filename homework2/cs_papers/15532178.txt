@@ -1,0 +1,15 @@
+Title: Effects of Taxpayers' Morale on Value-Added Tax Collection in Moshi Municipality, Tanzania
+
+Authors: Dr. Nyanjige Mbembela Mayala
+
+Keywords: VAT Collection, Tax Morale, Taxpayers, Tax Administration, Tax Compliance
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>Academic studies have extensively studied tax morale as an influencing factor in value-added tax (VAT) collection. Governments and tax authorities face new issues due to tax evasion, fraud, tax avoidance, and insufficient tax discipline. Additionally, there is a growing need for better justice and transparency in taxation. It necessitates the development of effective and innovative methods for collecting VAT. The current study was conducted in Moshi Municipality to assess the effects of taxpayers' morale on VAT collection. The study was based on the Theory of Collection Efficiency of Value Added Tax. The study population consisted of 687 taxpayers registered for VAT in the study area. A sample of 158 individuals was selected using the Yamane formula (1964). Data was collected using a questionnaire. Face-to-face and content validity were used to verify content validity. A Cronbach's alpha coefficient test was used for reliability, where a 0.822 coefficient level was obtained. A Logistic Regression model was used to analyse data, while descriptive statistics were used to organise data. The study's findings show that taxpayers' VAT tax morale in the study area decreases with age. Additionally, the educational background of the household is strongly associated with taxpayers' tax morale. Furthermore, household affluence hurts VAT compliance among taxpayers. On the other hand, the attendance of VAT Programmes has a significant positive effect on tax morale and collection. It is concluded that various elements, including individual variables, contextual variables, and other aspects, contribute to tax morale among taxpayers. It is recommended that governments, tax authorities, and educational program designers disseminate information and provide education to both existing and future taxpayers. It will help enhance the tax culture in the study region and, ultimately, in Tanzania.
+
+
+Contents:
+ - B259604021124.pdf

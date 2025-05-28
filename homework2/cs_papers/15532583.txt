@@ -1,0 +1,15 @@
+Title: Influence of Loan Size on Financial Performance of Small and Medium Enterprises in Moshi Municipality
+
+Authors: Stanslaus James Nicholaus
+
+Keywords: Loan Size, Financial Performance, SMEs
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract:</strong> The study investigated the influence of loan size on the financial performance of Small and Medium Enterprises (SMEs) in Moshi Municipality, Tanzania, focusing on how varying loan amounts impact profitability, solvency, and liquidity. Using a convergent parallel research design grounded in the Theory of Capital Structure, data were collected from 195 respondents out of a target population of 7,600 SMEs. Simple random and purposive sampling techniques were used, and quantitative analysis was conducted to ensure validity and reliability. The findings showed that larger loan sizes generally benefit SME profitability, efficiency, and flexibility. However, the impact of loan sizes on financial performance varied significantly across different businesses due to differences in economic strategies, market conditions, and business models. The regression analysis revealed that loan sizes significantly influence SME financial performance, accounting for approximately 48% of the variance. The study recommends that financial institutions and policymakers develop strategic loan management techniques, including offering a range of loan sizes, providing flexible loan terms, and ensuring accessible collateral requirements to meet the diverse needs of SMEs
+
+
+Contents:
+ - B260004021124.pdf

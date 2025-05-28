@@ -1,0 +1,13 @@
+Title: Hand Gesture Recognition Using Deep Learning  Techniques-Review
+
+Authors: Mekha Jose,Anakin Rajeev ,Arya B.Archanamol Lalu ,Bhadra J
+
+Keywords: 
+
+Publication date: 2025-05-23
+
+Description:
+N/A
+
+Contents:
+ - NACORE25 P234 (1).pdf

@@ -1,7 +1,8 @@
 import os
 import json
 
-BASE_DIR = r"E:\WILLIAMZHANG\InfoKnowAcq\homework2"
+# 修改为相对路径
+BASE_DIR = os.path.join(os.path.dirname(__file__), '..', 'homework2')
 EVAL_PATH = os.path.join(BASE_DIR, "manual_eval.json")
 
 

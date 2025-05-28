@@ -1,0 +1,17 @@
+Title: Redefining Interestingness Measures Using Fuzzy Support Matrix in Data Mining
+
+Authors: Dr. Swati Joshi
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+<div>
+
+<em><span>Interestingness measures plays a crucial role in evaluating the relevance and significance of patterns discovered in data mining. Traditional way of defining interestingness measures rely on rigid, deterministic thresholds. In real world data inherent uncertainty and vagueness is present and the interestingness measures often fail to capture the. In this paper we introduce a novel approach for redefining interestingness measures using a Fuzzy Support Matrix (FSM). Integration of fuzzy logic to evaluate the interestingness, for offering more flexible and nuanced measure of pattern relevance. It helps in robust decision-making especially in uncertain and complex environments. This research work propose new fuzzy-based interestingness metrics. This paper shows analysis of the advantages of newly proposed methods over traditional methods, and also demonstrate their effectiveness through case studies in various domains, such as e-commerce, healthcare, and social networks.</span></em>
+
+</div>
+
+Contents:
+ - S0622138.pdf

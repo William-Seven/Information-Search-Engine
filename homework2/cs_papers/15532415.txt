@@ -1,0 +1,15 @@
+Title: Corporate Governance and Financial Performance: A Bibliometric Analysis of Research Trends and Developments
+
+Authors: Ms. Manisha V. Pawar, Dr. Nidhi U. Argade
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>This study explored the relationship between corporate governance and financial performance using a bibliometric analysis of research trends from 2005 to 2024. Data were collected from the Web of Science database and analysed using VOS viewer for co-occurrence and co-citation patterns. The findings indicate that research output peaked between 2018 and 2023, with key themes including CSR, sustainability, governance, and supply chain management. Four major research clusters were identified, representing governance studies, financial performance, supply chain ethics, and methodological approaches. The study highlights emerging trends and research gaps, providing directions for future research</span></em>
+
+
+Contents:
+ - S0622107.pdf

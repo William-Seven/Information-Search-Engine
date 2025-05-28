@@ -1,0 +1,15 @@
+Title: An in-Depth Review of Cardiovascular Disease Prognosis Using Algorithms Based Upon Artificial Intelligence
+
+Authors: Divyasri. S. R
+
+Keywords: Cardiovascular disease, Artificial Intelligence, Deep learning, Machine Learning, Heart disease, Feature selection, Pre-processing
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>High mortality rates are a result of cardiovascular diseases (CVDs), which pose serious global health challenges. It is possible to decrease the risk of having an acute myocardial infarction and the mortality rate among people with cardiovascular diseases by promptly detecting cardiovascular events. The multifaceted pathological techniques and diverse determinants engaged in the menace assessment of CVDs, heart attacks, interpretations of medical imaging, therapeutic decisionmaking, and diagnosis of disease necessitate revisions to conventional data analysis methods. Artificial intelligence (AI) is a term used to describe technology that uses complex computer algorithms to analyse massive amounts of data. AI is now widely used in the medical field. AI methods have proven to be able to diagnose and treat a variety of CVDs more quickly, including hypertrophic cardiomyopathy, congenital heart disease, valvular heart disease, atrial fibrillation, and heart failure. We examined 92 papers from reliable sources, including Google Scholar, Springer, Elsevier, and others, for this thorough review. AI has shown great promise in clinical settings for the diagnosis of cardiovascular diseases, the improvement of supporting tools, the classification and stratification of disorders, and the prediction of outcomes. Intellectual AI systems have been carefully designed to examine complicated relationships in large amounts of healthcare data, enabling them to perform more complex jobs than traditional methods.
+
+
+Contents:
+ - A454514011024 .pdf

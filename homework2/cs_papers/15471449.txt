@@ -1,0 +1,13 @@
+Title: Remarks on the distribution of wh-scope marking
+
+Authors: Fanselow, Gisbert
+
+Keywords: wh, scope marking, wh, movement, wh, phrase, OV vs. VO, typology
+
+Publication date: 2025-05-20
+
+Description:
+The present chapter is concerned with ``wh-scope marking'' -- a phenomenon that occurs in complex structures. The wh-phrase, instead of moving overtly to its scope position, remains within the complement clause. A wh-pronoun that shows up in the matrix clause takes over the function of signalling scope. The goal of my contribution is to complete and systematize empirical facts as well as probe ways to explain the cross-linguistic distribution of the construction. The typological distinction between SVO and SOV languages might play a role. On the other hand, the linguistic facts that are presented in this chapter suggest that an areal factor plays a crucial role. These considerations delineate a direction of research that appears worthwhile pursuing.
+
+Contents:
+ - 453-Zimmermann-2025-14.pdf

@@ -1,0 +1,15 @@
+Title: The Role of E-Banking in Modern Financial Services
+
+Authors: Prof. Ajit Sopan Dhanwate, Prof. Dinesh Ramdas Ghuge
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>E-Banking, or electronic banking, refers to the use of digital platforms and the internet to conduct financial transactions and manage banking services. It has transformed traditional banking by enabling customers to access services such as fund transfers, bill payments, loan applications, and account management from anywhere at any time. E-Banking includes various forms such as online banking, mobile banking, ATM services, and digital wallets. It enhances convenience, speed, and efficiency while reducing operational costs for banks. However, it also presents challenges such as cyber security threats, data privacy concerns, and the need for advanced technological infrastructure. The adoption of secure authentication measures, encryption, and regulatory compliance is crucial to ensuring safe and efficient electronic banking services.</span></em>
+
+
+Contents:
+ - S0622137.pdf

@@ -1,0 +1,15 @@
+Title: Dynamin independent endocytosis is an alternative cell entry mechanism for multiple animal viruses
+
+Authors: Ojha, Ravi Kant, Jiang, Anmin, Mäntylä, Elina, Quirin, Tania, Modhira, Naphak, Witte, Robert, Gaudin, Arnaud, De Zanetti, Lisa, Gormal, Rachel Sarah, Vihinen-Ranta, Maija, Mercer, Jason, Suomalainen, Maarit, Greber, Urs F., Yamauchi, Yohei, Lozach, Pierre-Yves, Helenius, Ari, Vapalahti, Olli, Young, Paul, Watterson, Daniel, Meunier, Frédéric A., Joensuu, Merja, Balistreri, Giuseppe
+
+Keywords: 
+
+Publication date: 2024-11-14
+
+Description:
+
+Mammalian receptor-mediated endocytosis (RME) often involves at least one of three isoforms of the large GTPase dynamin (Dyn). Dyn pinches-off vesicles at the plasma membrane and mediates uptake of many viruses, although some viruses directly penetrate the plasma membrane. RME is classically interrogated by genetic and pharmacological interference, but this has been hampered by undesired effects. Here we studied virus entry in conditional genetic knock-out (KO) mouse embryonic fibroblasts lacking expression of all three&nbsp;dynamin isoforms (Dyn-KO-MEFs). The small canine parvovirus known to use a single&nbsp;receptor, transferrin receptor, strictly depended on dynamin. Larger viruses or viruses&nbsp;known to use multiple receptors, including alphaviruses, influenza, vesicular stomatitis,&nbsp;bunya, adeno, vaccinia, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)&nbsp;and rhinoviruses infected Dyn-KO-MEFs, albeit at higher dosage than wild-type MEFs. In&nbsp;absence of the transmembrane protease serine subtype 2 (TMPRSS2), which normally activates the SARS-CoV-2 spike protein for plasma membrane fusion, SARS-CoV-2 infected angiotensin-converting enzyme 2 (ACE2)-expressing MEFs predominantly through dynamin- and actin-dependent endocytosis. In presence of TMPRSS2 the ancestral Wuhanstrain bypassed both dynamin-dependent and -independent endocytosis, and was less sensitive to endosome maturation inhibitors than the Omicron B1 and XBB variants, supporting the notion that the Omicron variants do not efficiently use TMPRSS2. Collectively, our study&nbsp;suggests that dynamin function at endocytic pits can be essential for infection with single-receptor viruses, while it is not essential but increases uptake and infection efficiency of&nbsp;multi-receptor viruses that otherwise rely on a functional actin network for infection.
+
+
+Contents:
+ - journal.ppat_.1012690.pdf

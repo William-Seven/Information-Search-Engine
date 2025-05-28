@@ -1,0 +1,17 @@
+Title: Blockchain with AI: Digital Patient Records
+
+Authors: Ms. Varsha S. Shirore
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+<div>
+
+<em><span>The integration of blockchain technology and Artificial Intelligence (AI) into centralized digital patient records systems offers a transformative approach to healthcare data management. Our Paper presents the concept of a centralized digital patient records system that leverages the immutability, security, and transparency of blockchain with the predictive capabilities and automation of AI. The proposed system allows for the seamless storage, sharing, and management of patient records across various healthcare providers, ensuring that data is accessible, secure, and tamper-proof. Blockchain's decentralized nature ensures that patient data remains encrypted and immutable, while AI technologies assist in predictive analytics, decision-making support, and personalized treatment recommendations. By enhancing the reliability, security, and efficiency of healthcare data management, this integrated system can reduce administrative burdens, improve patient outcomes, and promote more informed and timely clinical decisions. The potential of blockchain and AI to overcome challenges in healthcare such as data fragmentation, privacy concerns, and fraud makes this system a forward-looking solution for modern healthcare ecosystems.</span></em>
+
+</div>
+
+Contents:
+ - S0622197.pdf

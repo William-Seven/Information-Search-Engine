@@ -1,0 +1,15 @@
+Title: Knowledge Management
+
+Authors: Dr. Nisal Ashwini Pandurang
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>Knowledge management (KM) is a multidisciplinary approach to identify, acquire, organize, store, retrieve, share, and utilize knowledge to achieve organizational objectives. KM involves creating, sharing, and leveraging knowledge to improve decision-making, innovation, efficiency, and competitiveness. Effective KM requires a combination of technological, social, and cultural strategies to facilitate knowledge creation, sharing, and utilization. By leveraging knowledge assets, organizations can gain a competitive advantage, improve performance, and drive innovation.</span></em>
+
+
+Contents:
+ - S0622145.pdf

@@ -1,0 +1,15 @@
+Title: Cylinder and sphere
+
+Authors: Norboev Sherali Shixnazarovich, Akhmedjanova Raziyajon Rakhimboevna
+
+Keywords: Cylinder, Sphere, Geometry, Volume, Surface Area, Properties, Applications, Engineering, Science, Mathematics, History, Intersection, Coordinate Systems.
+
+Publication date: 2025-05-28
+
+Description:
+
+<span lang="EN-US">This article provides a comprehensive exploration of cylinders and spheres, two fundamental three-dimensional geometric shapes. It delves into their mathematical definitions, key properties, surface area and volume calculations, and the historical development of their understanding. Furthermore, the article examines the ubiquitous presence of these shapes in various scientific, engineering, industrial, and natural contexts, highlighting their significance and diverse applications. Advanced concepts such as intersections, related geometric figures, and their representation in different coordinate systems are also discussed. This detailed analysis aims to provide a thorough understanding of cylinders and spheres and their enduring relevance across multiple disciplines.</span>
+
+
+Contents:
+ - Norboev_Sherali_Shixnazarovich_Akhmedjanova_Raziyajon_Rakhimboevna.pdf

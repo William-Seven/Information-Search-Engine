@@ -144,11 +144,11 @@ def zenodo_crawler(search_query, max_results=10, sort_by="mostrecent",
         print(f"Error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    search_query = ""
+    search_query = "computer science"
     zenodo_crawler(
         search_query=search_query,
-        max_results=500,
+        max_results=200,
         sort_by="mostrecent",
         download_pdf=False,
-        output_dir="./zenodo_papers"
+        output_dir="./homework2/cs_papers"
     )

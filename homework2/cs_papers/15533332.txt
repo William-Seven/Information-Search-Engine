@@ -1,0 +1,15 @@
+Title: A UWB Planar Antenna for 5G Smartphones and Wireless Applications
+
+Authors: Md. Tanvir Rahman Jim
+
+Keywords: 5G, Ultra-Wideband Antenna, WiMAX, Lower 5G, Partial Ground Plane, High Efficiency, CST
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>We describe a compact planar antenna for enhancing bandwidth, suitable for ultra-wideband devices like smartphones. In order to attain an ultra-wideband response of 6.5478GHz, the partial ground plane structure is applied to the suggested design in this paper. The total dimensions of the proposed antenna are 36&times; 30&times;0.79 mm3 (853.2 mm3 ). Throughout the whole frequency range of 2.782GHz to 9.3298GHz, (S11 &le;&minus;10 dB), the antenna's gain and directivity vary from 2.30 dB to 3.72 dB and 2.59 dBi to 3.9 dBi, respectively. The suggested design's performance parameters exhibit a respectable return loss of -26. 983. The VSWR is 1&lt;VSWR&lt;2 across the entire band, and it is 1.087 at 3.33GHz. All of the significant requirements have been satisfied by the time domain and frequency domain analyses. The 2018 edition of the Computer Simulation Technology (CST) Microwave Studio Suite was used to carry out all of the characteristic parameters. This idea will encourage the development of high performance ultra-wideband antennas for 5G devices.
+
+
+Contents:
+ - F109014060525.pdf

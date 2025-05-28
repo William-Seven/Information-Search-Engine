@@ -1,0 +1,15 @@
+Title: Syntax, semantics, and the lexicon
+
+Authors: Jędrzejowski, Łukasz, Junghanns, Uwe, Schwabe, Kerstin, Umbach, Carla
+
+Keywords: 
+
+Publication date: 2024-11-12
+
+Description:
+
+This book is dedicated to Ilse Zimmermann, who was a pioneer of Generative Grammar in Germany and made important contributions to the analysis of German and Slavic languages. It contains original articles by Zimmermann as well as newly written papers inspired by her work. Zimmermann's original articles cover a wide range of topics over a long period of research &ndash; the earliest dating from 1983 &ndash; and they make it clear that issues that are highly topical today have long been the subject of linguistic research. The newly written papers are closely related to Zimmermann's topics ranging from DP structure, verbal inflection and reciprocity to the modification of causative verbs, all from a Slavic perspective. They are rounded off by a contribution highlighting the leading role played by the Strukturelle Grammatik research group, of which Zimmermann was a member, in the development of linguistics in Germany.
+
+
+Contents:
+ - 453-Zimmermann-2025.pdf

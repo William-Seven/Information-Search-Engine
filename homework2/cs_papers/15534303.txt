@@ -1,0 +1,39 @@
+Title: Les systèmes de travail à haute performance : État de la littérature et perspectives de recherche
+
+Authors: AZAIZI Amira
+
+Keywords: Systèmes de travail à haute performance (HPWS), gestion des ressources humaines, bibliométrie, Web of Science., African Scientific Journal
+
+Publication date: 2025-05-28
+
+Description:
+
+<strong><span>R&eacute;sum&eacute; </span></strong>
+
+
+<span lang="FR-MA">Cet article explore les syst&egrave;mes de travail &agrave; haute performance (HPWS) en tant que levier strat&eacute;gique visant &agrave; optimiser la gestion des ressources humaines et &agrave; renforcer la performance organisationnelle. Dans un premier temps, il retrace l&rsquo;&eacute;mergence du concept, pr&eacute;sente les d&eacute;finitions les plus couramment adopt&eacute;es, et en expose les principaux fondements th&eacute;oriques. Dans un second temps, l&rsquo;&eacute;tude adopte une approche bibliom&eacute;trique, bas&eacute;e sur l&rsquo;analyse de 478 documents issus de la base de donn&eacute;es Web of Science, afin d&rsquo;identifier les tendances de publication, les auteurs et pays les plus actifs, ainsi que les axes de recherche dominants. Enfin, une analyse des dix publications les plus r&eacute;centes permet de d&eacute;gager les perspectives de recherche futures.</span>
+
+
+<span lang="FR-MA">Les r&eacute;sultats r&eacute;v&egrave;lent que, bien que les HPWS soient largement reconnus comme un levier strat&eacute;gique essentiel pour valoriser le capital humain et am&eacute;liorer la performance organisationnelle, leur efficacit&eacute; demeure &eacute;troitement li&eacute;e &agrave; divers facteurs contextuels. Cela souligne la n&eacute;cessit&eacute; d&rsquo;adapter ces syst&egrave;mes aux profondes transformations actuelles du monde du travail.</span>
+
+
+<strong><span lang="FR-MA">Mots cl&eacute;s&nbsp;: </span></strong><span lang="FR-MA">Syst&egrave;mes de travail &agrave; haute performance (HPWS), gestion des ressources humaines, bibliom&eacute;trie, Web of Science.</span>
+
+
+<strong><span lang="FR-MA">&nbsp;</span></strong>
+
+
+<strong><span lang="EN-US">Abstract </span></strong>
+
+
+<span lang="EN-US">This article examines High Performance Work Systems (HPWS) as a strategic lever for optimizing human resource management and enhancing organizational performance. It begins by tracing the emergence of the concept, presenting the most widely adopted definitions, and outlining its key theoretical foundations. Secondly, the study adopts a bibliometric approach, analyzing 478 documents from the Web of Science database to identify publication trends, the most active authors and countries, and the dominant research themes. Finally, an analysis of the ten most recent publications is conducted to highlight potential avenues for future research.</span>
+
+
+<span lang="EN-US">The findings indicate that while HPWS are widely recognized as a critical strategic tool for leveraging human capital and improving organizational performance, their effectiveness remains highly dependent on various contextual factors. This underscores the need to adapt these systems to the profound and ongoing transformations in the world of work.</span>
+
+
+<strong><span lang="EN-US">Keywords: </span></strong><span lang="EN-US">High Performance Work Systems (HPWS), human resource management, bibliometrics, Web of Science.</span>
+
+
+Contents:
+ - N30-04-Les systèmes de travail à haute performance État de la littérature et perspectives de recherche.pdf

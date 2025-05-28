@@ -1,0 +1,15 @@
+Title: Analysis of the Recreational Value of Mangrove Ecotourism Using a Choice Modeling Approach: A Case Study of Bale Mangrove Ecotourism, Jerowaru, East Lombok
+
+Authors: Isnan Purnama,, Mansur Afifi,, Diswandi Diswandi,
+
+Keywords: Mangrove Conservation, Choice Modelling, Recreational Value
+
+Publication date: 2025-05-28
+
+Description:
+
+Mangroves play a vital role in maintaining coastal ecosystem balance, protecting shorelines, and mitigating the impacts of disasters such as tsunamis and sea-level rise. Considering the significant contributions of mangroves to human life, the conservation of mangrove ecosystems is essential one way of achieving this is through the involvement of tourists who choose mangrove areas as ecotourism destinations. This study analyzes the factors influencing tourists&rsquo; willingness to participate in the conservation of Mangrove Ecotourism, using a case study in Jerowaru Village, East Lombok. By employing the Choice Modeling approach to estimate the economic value of Bale Mangrove Ecotourism, the study found that its economic value reaches IDR 79,478,000 per month, with a Willingness to Pay (WTP) of IDR 11,354 per person. This WTP is influenced by travel costs, environmental awareness, and age.
+
+
+Contents:
+ - 100.pdf

@@ -1,0 +1,15 @@
+Title: FDM in den Geisteswissenschaften. Spezifika und Best Practice anhand von Beispielen
+
+Authors: Steiner, Elisabeth
+
+Keywords: 
+
+Publication date: 2025-05-27
+
+Description:
+
+Presentation given in lecture series "Research Data Management and Open Science Talks" at the University of Graz, 2025-05-27
+
+
+Contents:
+ - Steiner_Webinar_2025-05-27.pdf

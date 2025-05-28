@@ -1,0 +1,31 @@
+Title: Mapping the Cosmos: an educational card game
+
+Authors: Deacon, Niall
+
+Keywords: 
+
+Publication date: 2025-05-27
+
+Description:
+
+Mapping the Cosmos is an educational card game intended to show students how astronomers running astronomical surveys like the Sloan Digital Sky Survey (SDSS) prioritize observations and make targeting decisions. Each student takes the role of an astronomer running a survey of the sky. They are given a science goal and must balance their goal with the needs of the community to observe a wide range of objects.
+
+
+The game is intended for anyone from high school &amp; above and can be played in groups of 2-4 players. Once the players have familiarized themselves with the rules a game typically takes less than 30 minutes. It&rsquo;s obviously not a completely faithful representation of what happens when astronomers are making decisions on what objects to observe, but it gives students who play the game a good introduction to some of the factors that astronomers need to take into account, and hopefully it&rsquo;s fun too.
+
+
+You can print your own copies of the game using the attached files. These are provided in two different paper sizes, A4 for most countries and letter format for the US and Canada; and in two different formats (Powerpoint and PDF). When printing select double sided printing flipped on the short edge. Feel free to print as many copies as you like, share it, translate it or adapt it for your needs. Teacher notes are included in the file with the rules and cards.
+
+
+This game is loosely based on observing with the Sloan Digital Sky Survey (SDSS) and was developed by the Education and Public Outreach group withing the SDSS-V collaboration.&nbsp;
+
+
+Contents:
+ - game_rules_cards_a4.pdf
+ - game_scoresheets_v4.pptx
+ - game_rules_cards_a4.pptx
+ - game_scoresheets_letter.pptx
+ - game_rules_cards_letter.pptx
+ - game_scoresheets_letter.pdf
+ - game_scoresheets_a4.pdf
+ - game_rules_cards_letter.pdf

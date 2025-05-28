@@ -1,0 +1,60 @@
+Title: Annual canopy cover maps in Peninsular Spain from ALS and Landsat data from 1985 to 2023 (part 3 of 4)
+
+Authors: Tanase, Mihai Andrei
+
+Keywords: 
+
+Publication date: 2025-05-28
+
+Description:
+
+This data was generated for the paper, " <strong>Long-term forest structure trends in the peninsular Spain from lidar-optical sensors</strong>".
+
+
+<strong>&nbsp;</strong><strong><span lang="ES-TRAD">Authors: </span></strong><span lang="ES-TRAD">M. Tanase<sup>1</sup>, J.P. Martini<sup>2</sup>, P. Miranda<sup>2</sup>, D. Garcia<sup>2</sup>, V. Wilke<sup>2</sup>, S. Miguel<sup>2</sup>, C. Mihai<sup>2</sup>, J. Diez<sup>3</sup>, S. Natal<sup>3</sup>, D. San Martin<sup>3</sup>, Julen Astigarraga<sup>4,5</sup>, </span><span lang="ES">Paloma Ruiz-Benito</span><sup><span lang="ES-TRAD">2,5</span></sup>
+
+
+<span lang="ES-TRAD">&nbsp;</span><strong><span lang="ES-TRAD">Affiliations</span></strong>
+
+
+<em><sup><span lang="ES-TRAD">1</span></sup></em><em><span lang="ES-TRAD">Instituto de Ciencias Forestales ICIFOR (INIA-CSIC), Madrid, Spain.</span></em>
+
+
+<em><sup><span lang="ES-TRAD">2</span></sup></em><em><span lang="ES-TRAD"> Dpto. Geolog&iacute;a, Geograf&iacute;a y Medio Ambiente, Dpto. Geolog&iacute;a, Geograf&iacute;a y Medio Ambiente, Grupo de Investigaci&oacute;n en Teledetecci&oacute;n Ambiental, Universidad de Alcal&aacute;, Alcal&aacute; de Henares, Spain.</span></em>
+
+
+<em><sup>3 </sup></em><em>Predictia Inteligent Data Solutions S.L., Santander, Spain</em>
+
+
+<em>4 Department of Physical Geography and Ecosystem Science, Lund University, Lund S-223 62, Sweden</em>
+
+
+<em><span lang="ES">5 Universidad de Alcal&aacute;, Departamento de Ciencias de la Vida, Grupo de Ecolog&iacute;a y Restauraci&oacute;n Forestal (FORECO), Avenida de Madrid, S-N, Alcal&aacute; de Henares, 28802, Madrid, Spain.</span></em>
+
+
+<strong>Corresponding Author</strong>
+
+
+Mihai Tanase
+
+
+<a href="mailto:mihai.tanase@inia.csic.es">mihai.tanase@inia.csic.es</a>
+
+
+Spanish National Research Council
+
+
+To use the data, please cite this study.
+
+
+Please note that this product is not restricted to forested areas. Users aiming to conduct forest-specific analyses are encouraged to apply a forest mask appropriate to their study objectives. The maps of canopy height, canopy cover, and above ground biomass provided by this study can be found on Zenodo, detailed information about how to access those datasets can be found in the associated paper. A visualization app to preview and interactively analyze the maps can be found here: <a href="http://www.fodim.uah.es">www.fodim.uah.es</a>.
+
+
+&nbsp;<strong>Funding</strong>
+
+
+This work was funded by the Spanish Ministry for Science and Innovation through the projects PID2020&ndash;114062RA-I00 and CNS2022-135251. JA was supported by the Basque Government's Postdoctoral Programme for the Improvement of Doctoral Research Staff (POS_2024_1_0026). PRB is supported through the Spanish Ministry for Science and Innovation (AEI, PID2021-123675OB-C41).
+
+
+Contents:
+ - FCC.zip.003

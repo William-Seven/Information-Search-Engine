@@ -1,0 +1,15 @@
+Title: Data from: Predicting success of conservation translocations: Prerelease screening tools for a threatened marsupial
+
+Authors: Cornelsen, Kate, Elphinstone, Andrew, Jordan, Neil
+
+Keywords: Personality, Personality tests, Personality traits, Animal behavior, Conservation science, Evolutionary ecology
+
+Publication date: 2025-05-28
+
+Description:
+
+Individual animals differ in their responses to environmental challenges. Identifying these differences before animals are translocated could be a useful tool in improving postrelease success. For most species, however, uncertainty persists around which behaviours contribute to postrelease success. Greater bilbies, <em>Macrotis lagotis</em>, are a threatened species, for which detailed behavioural studies in situ are rare. We tested bilbies prior to their release to a fenced safe haven to examine whether (1) bilby response to a known threat (that is, human observer) and novelty (that is, novel scent) was individually different and repeatable, or alternatively plastic, and (2) if any behaviours were related to bilby fitness (breeding success and survival) postrelease. We found that several behaviours measured during trapping (exposure to a known threat) were individually variable and repeatable and that males that were less responsive (lower respiratory rate) during handling had greater breeding success (that is, the number of offspring sired relative to the opportunity to breed). Contrastingly, individual differences in bilby response to novel scents were not repeatable, but we did, however, find sex-specific responses in this context. Males took less time to initiate touch with the novel-scented object and touched the object more times than females, suggesting that males are less neophobic. Plasticity rather than personality predicted female post-release fitness. Females that were increasingly cautious of novelty had greater relative breeding success. Our study is the first to confirm repeatable and plastic behaviours in bilbies, develop a standardized test for prerelease screening of behaviours, and examine the fitness consequences of these behaviours. We encourage the use of the 'trap test' as a simple and practical way to screen bilbies for future conservation translocations. We also recommend further testing in environments where the risk of establishment failure may be higher (that is, invasive predators present) and where the fitness consequences may be more profound and thus detectable.
+
+
+Contents:
+ - R_code.zip

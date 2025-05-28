@@ -1,0 +1,15 @@
+Title: Sign Language Detection and Recognition using Image Processing for Improved Communication
+
+Authors: Nishtha Bhagyawant
+
+Keywords: Sign Language (SL), OpenCV, CNN, LSTM, hand gesture, real-time, Deep Learning (DL)
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>This study presents an advanced deep learning framework for the real-time recognition and translation of Indian Sign Language (ISL). Our approach integrates Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks to capture the spatial and temporal features of ISL gestures effectively. The CNN component extracts rich visual features from the input sign language videos, while the LSTM component models the dynamic temporal patterns inherent in the gesture sequences. We evaluated our system using a comprehensive ISL dataset of 700 fully annotated videos representing 100 spoken language sentences. To assess the effectiveness of our approach, we compared two model architectures: CNN-LSTM and SVM-LSTM. The CNN-LSTM model achieved a training accuracy of 84%, demonstrating superior performance in capturing visual and sequential information. In contrast, the SVM-LSTM model achieved a training accuracy of 66%, indicating comparatively lower effectiveness in this context. One of the key challenges faced during the development of the system was overfitting, primarily due to computational constraints and the limited size of the dataset. Nevertheless, the model exhibited promising results through careful tuning of hyperparameters and various optimisation strategies, suggesting its potential for real-world applications. This paper also discusses the data preprocessing techniques employed, including video frame extraction, normalisation, and data augmentation, which were critical in enhancing model performance. By addressing the complexities of sign language recognition, our work advances communication accessibility for individuals relying on ISL, promoting greater inclusivity through technology.
+
+
+Contents:
+ - B366815020525.pdf

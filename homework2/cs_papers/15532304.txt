@@ -1,0 +1,27 @@
+Title: FINGROW
+
+Authors: Md. Lubna Firdous, Thameena Nousheen, Dr. K. Rajitha, Mrs. K. Shirisha, Dr. K. Sreekala
+
+Keywords: Expense tracker web app, Budget tracking software, SMS transaction parser, Credit and debit tracking, Income and expense monitor, Real-time financial insights
+
+Publication date: 2025-05-28
+
+Description:
+
+<em>With today's fast-paced digital economy, sound personal money management has never been more important. The FINGROW is a user-friendly web-based application that allows the user to obtain instant feedback on their personal finance health. The application was designed with simplicity and automation in mind, so spending can easily be tracked.</em>
+
+
+<em>&nbsp;</em>
+
+
+<em>One of the strongest capabilities is SMS-based transaction data extraction simulation&mdash;simulating the manner in which actual banking notices come in the form of messages. This makes the system able to automatically extract important financial details like transaction amount, date, transaction type (credit or debit), and source or cause of the transaction. Transactions may be input manually, with the flexibility to include non-digital or offline spending.</em>
+
+
+<em>&nbsp;</em>
+
+
+<em>All expenses are properly categorized (e.g., food, transport, bills, entertainment), and one has a total history of transactions in easy reach. With each addition, the Smart Expense Tracker automatically updates total summaries and visualizations like balance summaries and monthly expense split-ups. With these, people can spot areas of expenditure behavior, control spending, and make sound financial decisions.</em>
+
+
+Contents:
+ - FINGROW -Formatted Paper.pdf

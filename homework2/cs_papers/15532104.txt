@@ -1,0 +1,24 @@
+Title: Prevalence and Determinants of Substance Use among Residents aged 15 years and above in Onitsha, Anambra State
+
+Authors: Ifeoma J. O., Obi-Ezeani, C. N., Amuche L. O., Umeaba N. G., Eugenia O. N., Chiedu I. C.
+
+Keywords: 
+
+Publication date: 2025-05-28
+
+Description:
+
+<span>Background: </span><span>Substance abuse poses a significant public health challenge globally, with its impact more acute in low- and middle-income countries like Nigeria. This study assessed the prevalence and determinants of substance use among residents aged 15 years and above in Onitsha, Anambra State, in Southeastern Nigeria.</span>
+
+
+<span>Methods:&nbsp;</span><span>A descriptive cross-sectional design was employed, involving 402 participants selected through multistage stratified random sampling. Data were collected using structured questionnaires and analyzed using SPSS version 26. Descriptive statistics, Chi-square tests, and logistic regression were used to examine associations and identify predictors.</span>
+
+
+<span>Results:&nbsp;</span><span>The study found a lifetime substance use prevalence of 44.3%, with 34.8% reporting current use. Alcohol (75.0%), tobacco/nicotine (57.1%), and prescription drugs such as tramadol and codeine (42.9%) were the most commonly used substances. Sociodemographic factors significantly associated with substance use included being male, aged 15&ndash;34 years, and single. Key psychosocial factors influencing substance use included recent stressful life events (32.3%), peer substance use (27.4%), and depression or loneliness (23.6%). Peer substance use, depression or loneliness, and recent stressors were independently associated with higher odds of current substance use.</span>
+
+
+<span>Conclusion:&nbsp;</span><span>These findings underscore the urgent need for targeted interventions that address the specific social, psychological, and environmental drivers of substance abuse in urban Nigerian contexts. The study highlights the importance of localized data in informing public health strategies and developing effective prevention and treatment programs tailored to community needs.</span>&nbsp;
+
+
+Contents:
+ - GJRMS5312020.pdf

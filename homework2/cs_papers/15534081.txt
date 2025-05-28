@@ -1,0 +1,17 @@
+Title: Artificial Intelligence and Data Science: A Synergistic Approach
+
+Authors: Dr. Dnyandev Laxman Nitve, Kritika Amit Agrawal
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+<div>
+
+<em><span>Artificial Intelligence and Data Science are two of the most important technologies to develop in the 21st century. AI simulates human intelligence, while Data Science can mine vast datasets for insights; both toward the transformation of industries, economies, and societies. This paper explores areas of intersection of Data Science and AI, including synergies, obstacles, and application. The objective is to understand how AI augments Data Science methods while Data Science steers the development of AI. Using a mix of primary and secondary data, this paper reviews current trends, identifies challenges, and makes suggestions for future applications and research. The emphasis of the research is on the disruptive potential of AI-based Data Science, which can solve critical challenges surrounding issues like data privacy, algorithmic discrimination, and the need for professional expertise.</span></em>
+
+</div>
+
+Contents:
+ - S0622180.pdf

@@ -1,0 +1,15 @@
+Title: Diagnosis of Retinal Detachment via Blood Vessel Analysis using Multi threshold Image Binarization
+
+Authors: Anjali Arun Rokde
+
+Keywords: Retinal Detachment, Feature Extraction, Blood Vessels, Database, Preprocessing
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>In the eye retina is the innermost layer. The retina is the light-sensitive tissue lining the back of the eye. Retinal detachment is a disorder of the eye. It is described as a critical condition in which all retinal layers are pulled away from their normal position. Retinal detachment can lead to visual impairment or loss of vision. So, diagnosing retinal detachment disease at an earlier stage is very important. This study aims to analyse the position of retinal detachment from the retina's blood vessels. The process of extracting the normal and detached retinal position is conducted by the Four Steps: image pre-processing, applying a Filter, multi-thresholding with image binarisation, extracting the retinal blood vessels, and extracting the position of Retinal detachment disease. In this research, we used the local dataset of Aravid_eye_care hospital from the IEEE website, which contains the retinal detachment fundus image. In this work, we extract one feature of Retinal Detachment disease, i.e., the Retina's blood vessels. Also, we compare the healthy retina and the detached position of the retina from the blood vessels.
+
+
+Contents:
+ - C106405030325.pdf

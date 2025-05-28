@@ -1,0 +1,45 @@
+Title: D3.10 Innovation Case Study 3: Horizon 2020
+
+Authors: Holzinger, Florian, Araki, Mei, Anders, Gerit, Greithanner, Julia
+
+Keywords: inclusive innovation, research and innovation, gender mainstreaming, Horizon 2020
+
+Publication date: 2025-05-28
+
+Description:
+
+Horizon 2020 (H2020), the EU&rsquo;s flagship research and innovation programme (2014&ndash;2020), made&nbsp;gender equality a cross-cutting issue, with a strong focus on integrating the gender dimension into&nbsp;research and innovation content. This approach was rooted in the recognition that both biological (sex)&nbsp;and socio-cultural (gender) differences influence research outcomes and innovation processes, and&nbsp;that addressing these differences enriches scientific results, enhances societal relevance, and&nbsp;supports responsible research.
+
+
+The EU&rsquo;s commitment to gender equality in research has evolved from addressing the&nbsp;underrepresentation of women in science to a broader strategy that includes integrating gender&nbsp;analysis into research and innovation content. This shift was formalized in key policy documents,&nbsp;including the Amsterdam Treaty (1999), the Europe 2020 Strategy, and the European Research Area&nbsp;(ERA) Communication (2012), which established gender equality and mainstreaming as priorities for&nbsp;fostering scientific excellence and innovation.
+
+
+Horizon 2020 operationalized gender equality through three main objectives:
+
+<ol>
+<li>Fostering Gender Balance in Project Teams: Promoting equal opportunities and closing
+participation gaps for women in research teams.</li>
+<li>Ensuring Gender Balance in Decision-Making: Setting targets for the underrepresented sex
+in panels (40%) and advisory groups (50%).</li>
+<li>Integrating the Gender Dimension in Research and Innovation Content: Requiring
+researchers to consider sex and gender analysis in research questions, methodologies, and
+outcomes.</li>
+</ol>
+
+The implementation of the integration of the gender dimension in research and innovation content is&nbsp;defined in the legal and strategic framework of H2020. Specifically,, Article 16 of the H2020 Regulation&nbsp;mandated the effective promotion of gender equality and the integration of the gender dimension in&nbsp;research and innovation content, to be addressed at all stages of the research cycle. Many calls were&nbsp;&ldquo;gender-flagged&rdquo; to highlight this requirement.
+
+
+Applicants were required to describe in their proposals how sex and/or gender analysis was relevant&nbsp;to their research. The European Commission supported applicants with different documents like best&nbsp;practice reports, guidelines etc. providing insights and guidance on this topic. To strengthen the&nbsp;implementation of the gender dimension across the whole programme each thematic advisory group&nbsp;needed to include gender experts who provided guidance on integrating the gender dimension and&nbsp;monitored progress. The inclusion of the gender dimension was part of the proposal evaluation criteria,&nbsp;reinforcing its importance for scientific excellence and impact.
+
+
+H2020 distinguished between &lsquo;sex&rsquo; (biological characteristics) and &lsquo;gender&rsquo; (socio-cultural factors),&nbsp;and emphasized the importance of analyzing both to avoid bias and ensure that research benefits all&nbsp;segments of society.
+
+
+By mainstreaming the gender dimension in research and innovation, Horizon 2020 aimed to foster&nbsp;more inclusive, relevant, and high-quality research outcomes, while advancing the EU&rsquo;s broader goals&nbsp;of equality and innovation-driven growth.
+
+
+Horizon 2020 (H2020) was the first EU framework programme to make gender a cross-cutting issue,&nbsp;embedding the integration of the gender dimension into research and innovation content as a core&nbsp;objective. This meant that applicants were encouraged&mdash;and in many cases required&mdash;to consider&nbsp;how sex and gender differences affect research questions, design, methodologies, and outcomes&nbsp;across all project stages. The rationale was that integrating gender analysis improves the scientific&nbsp;quality and societal relevance of knowledge, technologies, and innovations produced, leading to&nbsp;results that better address the needs and behaviors of both women and men. H2020 recognized that&nbsp;without this dimension, research risks being partial or biased, and may fail to deliver effective solutions&nbsp;for all users. As a result, many topics in the H2020 work programme were "gender-flagged," and the&nbsp;inclusion of a gender dimension was evaluated as part of project excellence, helping to drive more&nbsp;inclusive and impactful research and innovation across Europe.
+
+
+Contents:
+ - D3.10 Case3 - H2020.pdf

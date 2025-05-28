@@ -1,0 +1,15 @@
+Title: Artificial Intelligence in Cooperative Credit Societies: Enhancing Loan Processing and Risk Assessment
+
+Authors: Karhe Prakash Sukhadev, Dr. Roundal Sitaram Rangnath
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>This study explores the impact of Artificial Intelligence (AI) on loan processing and risk assessment in cooperative credit societies. The integration of AI can enhance the efficiency, accuracy, and transparency of loan management by automating credit scoring, fraud detection, and personalized financial recommendations. The study aims to assess how AI-driven technologies optimize decision-making processes and minimize financial risks for cooperative credit institutions. By analyzing secondary data and conducting case studies, the research highlights the advantages and challenges of AI adoption in cooperative credit societies. The findings indicate that AI improves operational efficiency, reduces non-performing assets, and enhances customer satisfaction. However, challenges like data security, infrastructure costs, and regulatory constraints remain significant.</span></em>
+
+
+Contents:
+ - S0622131.pdf

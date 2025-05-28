@@ -23,8 +23,9 @@ CUSTOM_STOP_WORDS = {
 nlp = spacy.load("en_core_web_sm")
 
 # 输入与输出路径
-DATA_DIR = r"E:\WILLIAMZHANG\InfoKnowAcq\homework2\zenodo_papers"
-OUTPUT_PATH = r"E:\WILLIAMZHANG\InfoKnowAcq\homework2\processed_docs.json"
+# DATA_DIR = r"..\zenodo_papers"
+DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'cs_papers')
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), '..', 'processed_docs.json')
 
 
 def clean_html(raw_html):

@@ -1,0 +1,15 @@
+Title: Consequences of Night Shift Work for Women in the Pune Region
+
+Authors: Mr. Sahil Saka, Ms. Vanita Mhaske
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>This study investigates the health consequences faced by women working night shifts, with a focus on understanding the effects on various physical and mental health aspects. Data was collected from women of varying ages, covering factors such as working hours, digestive issues, eye health, menstrual cycle, cardiovascular health, hair and skin health, along with specific concerns like migraines, muscle pain, memory issues, breast cancer risk, Gastrointestinal cancer and miscarriage. Logistic regression analysis revealed a significant correlation between working overtime and menstrual cycle irregularities, while chi-square tests showed dependencies between digestive issues and both skin health and working hours. In conclusion, our analysis reveals a significant interlink between overtime work, skin problems, and digestive issues. Specifically, it was found that 70% of women experience menstrual cycle problems when working 8.5 hours or more per day.Based on these findings, practical guidelines were developed and shared with respondents to help mitigate health risks associated with night shift work, offering insights into better self-care and prevention strategies. The results emphasize the importance of workplace health interventions for women in night shifts.</span></em>
+
+
+Contents:
+ - S0622157.pdf

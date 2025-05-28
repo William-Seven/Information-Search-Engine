@@ -1,0 +1,27 @@
+Title: Online Food Ordering Website
+
+Authors: Gogu Sandeep, Kurakula Sudheendra, Dr. K. Sreekala, P. Poornima, N. Musrat Sultana, Dr. A. Nagesh
+
+Keywords: Database management, user authentication, restaurant aggregation, single delivery partner, multi restaurant order, user friendly interface
+
+Publication date: 2025-05-28
+
+Description:
+
+<em><span>In the rapidly expanding internet food ordering platform space, companies such as Swiggy and Zomato have changed the way consumers eat and buy food. But there is one big chokepoint in existing systems: the customer cannot order a composite order of products from more than one restaurant. There must be multiple orders, with a longer delivery cost, increased waiting time, and even fractured customer experience. Our project is intended to fill this gap by creating a new food ordering website online where people can order various foods from various restaurants in one combined order. </span></em>
+
+
+<em><span>The core innovation of our platform is that it is able to consolidate orders from various restaurants and assign a single delivery partner to pick up and deliver all the ordered food to the user's destination at one time. This approach enhances users' convenience, reduces delivery overhead, and gives a unique competitive edge to the market. The system will cluster restaurants that are geographically proximate, and route optimize for effective delivery and timely pickup, thus delivering the food hot and fresh.</span></em>
+
+
+<em><span>The site will incorporate simple menu navigation, items in a cart, and checkout by a single transaction. The back-end will support complicated logistics such as real-time order tracking, restaurant coordination, and assignment of delivery partners. Not only does this solution enhance the consumer experience but also enable new possibilities of food customization and group ordering.</span></em>
+
+
+<em><span>By breaking the constraints of existing food delivery models, our project provides a scalable and feasible solution tailored to the needs of today's users. It can revolutionize the online ordering food landscape and establish a new benchmark for multi-restaurant delivery&nbsp;efficiency.</span></em>
+
+
+<strong><em><span lang="EN-AU">&nbsp;</span></em></strong>
+
+
+Contents:
+ - Online Food Ordering Website -Formatted Paper.pdf

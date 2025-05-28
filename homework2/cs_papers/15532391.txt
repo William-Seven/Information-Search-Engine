@@ -1,0 +1,15 @@
+Title: Hidden Cyber Security Threats Targeting Virtual Banks in 2025
+
+Authors: Gurunath S. Deshmukh
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>The banking sector is expected to pass primarily online through 2025, leading to an increase in interaction between cybersecurity and banking. In response to the escalation of the threat, financial institutions increased their cybersecurity budget by 89% in 2024. The key incident involving a virtual Chinese bank on the early days affected by the DDOS attack highlights the weaknesses online banks are facing only online banks. Advanced cybercrime tactics using ransomware and social engineering aimed at both employees and customers and virtual banks that rely on digital platforms. Risk situations will likely develop due to hidden cybersecurity threats, such as AI-controlled attacks and quantum computer risks. Cyberattacks in the financial sector have been rising dramatically since 2019, with 333% violations increasing by 333%, and ransomware attacks attack 59% of financial institutions in 2024. To combat these threats, banks are leveraging security measures such as realtime transaction monitoring, biometric authentication, and AI- based fraud detection systems. The weaknesses and misconceptions of cloud infrastructures offer additional challenges. This will surprise you with the exploitation accidents discovered between 2021 and 2022. Insider threats are also increasing due to remote work environments, requiring effective monitoring solutions. While cyber threats develop, virtual banking systems need a comprehensive approach that includes zero trust architecture, AI-enabled anomaly detection, and continuous safety verification frames to improve defense against sophisticated attacks and at the same time ensure compliance with regulatory standards.</span></em>
+
+
+Contents:
+ - S0622105.pdf

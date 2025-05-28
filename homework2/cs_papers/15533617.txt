@@ -1,0 +1,28 @@
+Title: Balancing sustainability for socio-economy and eco-environment through renewable energy transitions in the Yellow River Basin
+
+Authors: Wu, Chuandong, Yang, Dawen, Cai, Ximing, Chen, Deliang, Yang, Yuting, Wang, Taihua, Zhang, Yi, Zhao, Jianshi, Fu, Bojie
+
+Keywords: 
+
+Publication date: 2025-05-20
+
+Description:
+
+Code of HPWP-OM (Hydropower-PV-Wind-Pump optimization model).
+
+
+Contents:
+ - HPWP_OM.m
+ - getStruct2Arr.m
+ - getCmutiyr2now.m
+ - getRow_SformRow_M.m
+ - getdtplantMonFromDay.m
+ - gurobi.opt
+ - GAMS.m
+ - getStructto3D.m
+ - getdays.m
+ - ModelOutput.zip
+ - getStruct2ArrD2.m
+ - HPWP_OM.gms
+ - ModeInput.zip
+ - getCmutiInvest2now.m

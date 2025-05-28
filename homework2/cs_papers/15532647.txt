@@ -1,0 +1,15 @@
+Title: Economic Analysis of Income and Employment in the Indian Economy: Granger Causality Approach
+
+Authors: Dr. Altaf Hussain Padder
+
+Keywords: Economic Growth, Employment, Johansen Co-Integrating Test, Granger Causality Test, Indian Economy, Post-Reform Period
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract:</strong> This paper investigates the relationship between economic growth and employment in India, focusing on the postreform period. Using a semi-log quadratic model, the study examines trends in GDP and jobs, drawing comparisons across various countries and income groups. The Granger causality test and the Johansen co-integration technique are employed to analyse the linkages between these variables. The findings reveal that while GDP and employment exhibit positive correlations in some countries, including China, Pakistan, and the USA, the relationship is predominantly negative in India, where corresponding increases in employment have not accompanied GDP growth. Specifically, the study finds that a 1% increase in GDP leads to a 0.28% reduction in employment. The results underscore the "jobless growth" phenomenon in India, where structural shifts towards capital-intensive sectors have led to stagnation in labour absorption. This paper argues that economic growth in India must be redefined to focus on output expansion and inclusive job creation. The paper concludes with policy recommendations aimed at fostering labour-intensive growth, promoting skill development, and addressing regional disparities, to ensure that economic growth translates into equitable employment opportunities for all sectors of society.
+
+
+Contents:
+ - C2508051322.pdf

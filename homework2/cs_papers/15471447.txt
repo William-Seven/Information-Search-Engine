@@ -1,0 +1,23 @@
+Title: Strengthening to reciprocity: The syntax and semantics of ONE+OTHER expressions
+
+Authors: Arsenijević, Boban
+
+Keywords: reciprocity, Serbo, Croatian, one, other expression, pragmatic competition
+
+Publication date: 2025-05-20
+
+Description:
+
+I argue on the basis of data from Serbo-Croatian that reciprocity expressions 
+combining the equivalents of the words one and other as two separate constituents bear
+a non-reciprocal compositional core meaning, as formulated by Vicente&rsquo;s (2010)
+and Zimmermann&rsquo;s (2014) work on Spanish, Russian and German data. The
+&nbsp;additional components of the two analyses postulated to capture reciprocity &ndash; 
+cumulation and type shift, respectively &ndash; are not part of the expression&rsquo;s semantics. Rather,
+reciprocity emerges from pragmatics, in the competition of these expressions with
+closest competitors whose meanings do not even include reciprocal interpretations
+as special cases. Both a syntactic and a semantic analysis is provided.
+
+
+Contents:
+ - 453-Zimmermann-2025-13.pdf

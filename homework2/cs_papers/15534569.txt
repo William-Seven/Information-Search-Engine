@@ -1,0 +1,15 @@
+Title: The Impact of Customer Interface and Experience on E-Banking Appropriation
+
+Authors: Prof. Shipa Laxman Chabukswar, Prof. Dr. Kishor Shankar Nikam
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>The rapid adoption of e-banking largely depends on user interface (UI) and customer experience (CX). A well-designed, intuitive interface enhances accessibility, usability, and trust, leading to higher adoption rates. This study examines the relationship between UI/UX design and customer satisfaction in e-banking services. It explores key factors like ease of navigation, security perceptions, and personalization. The findings highlight how a seamless banking experience influences customer retention and digital transformation. Recommendations focus on optimizing UI/UX to boost e-banking adoption and ensuring security, convenience, and user engagement in digital financial transactions</span></em>
+
+
+Contents:
+ - S0622198.pdf

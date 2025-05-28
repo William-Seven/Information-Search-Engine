@@ -1,0 +1,15 @@
+Title: Neural Architectures Comparison: Common Cognitive Patterns between Brain and Artificial Intelligence
+
+Authors: Toscano, Lorenzo
+
+Keywords: generative AI, Large Language Models, hierarchical reference systems, computational cognition, multimodal AI, cognitive architectures, linguistic crystallization, computational metalanguage
+
+Publication date: 2025-05-27
+
+Description:
+
+<span lang="EN-US">This study explores functional analogies between hierarchical reference systems in the human neocortex and those emerging within modern Large Language Models (LLMs). It posits that, through exposure to extensive linguistic data, artificial neural networks can give rise to emergent capabilities that are functionally analogous to those of specialized cortical areas, despite being grounded in fundamentally different architectures. Drawing inspiration from the work of Hawkins et al. on neocortical grid cells, the study applies their core conceptual principles to hypothesize that similar structural principles may manifest within LLMs during training and inference. We demonstrate that, when exposed to multimodal inputs, these models acquire the capacity to operate across nested reference systems, effectively mirroring core computational functions of the neocortex. Using a cross-domain translation methodology, we explore how such internal systems support the processing of structurally complex information across multiple cognitive domains&mdash;including language, vision, and music. A multimodal case study illustrates how proportional and hierarchical relationships can be maintained across representational formats, offering empirical evidence for the emergence of generalized internal representations. The findings suggest a functional convergence between biological and artificial systems, pointing toward universal computational principles that transcend the constraints of their respective substrates. While preliminary, this work proposes that the emergent dynamics of artificial neural networks may reflect domain-general mechanisms of abstraction and representation, resonating with both cognitive and neural theories of intelligence, and with potentially valuable implications across a range of practical and interdisciplinary fields.</span>
+
+
+Contents:
+ - neuroai_cognitive_patterns_2025.pdf

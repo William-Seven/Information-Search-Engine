@@ -1,177 +1,35 @@
-[
-  {
-    "query": "english learning",
-    "results": [
-      {
-        "doc_id": "15517923.txt",
-        "title": "Emerging Trends in AI and Machine Learning",
-        "score": 0.3493,
-        "relevant": 0
-      },
-      {
-        "doc_id": "15517554.txt",
-        "title": "Deep Learning Based Detecting Security System",
-        "score": 0.2977,
-        "relevant": 0
-      },
-      {
-        "doc_id": "15517420.txt",
-        "title": "THE ROLE OF SPEAKING IN LANGUAGE LEARNING",
-        "score": 0.2825,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15517915.txt",
-        "title": "DISTANCE LEARNING: BASIC MODELS",
-        "score": 0.2795,
-        "relevant": 0
-      },
-      {
-        "doc_id": "15518057.txt",
-        "title": "The Natural Language Processing Axioms in Classical Tamil for Zonal Dialects using Machine Learning",
-        "score": 0.2652,
-        "relevant": 1
-      }
-    ]
-  },
-  {
-    "query": "deep learning",
-    "results": [
-      {
-        "doc_id": "15517554.txt",
-        "title": "Deep Learning Based Detecting Security System",
-        "score": 0.631,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15514645.txt",
-        "title": "Observatorio virtual sonoro basado en deep learning. Material complementario.",
-        "score": 0.4771,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15518158.txt",
-        "title": "A Comparative Study of Data Mining Algorithms for Weather Prediction",
-        "score": 0.3277,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15480898.txt",
-        "title": "From Kernels to Features: A Multi-Scale Adaptive Theory of Feature Learning",
-        "score": 0.3244,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15517923.txt",
-        "title": "Emerging Trends in AI and Machine Learning",
-        "score": 0.2878,
-        "relevant": 1
-      }
-    ]
-  },
-  {
-    "query": "deep learning",
-    "results": [
-      {
-        "doc_id": "15517554.txt",
-        "title": "Deep Learning Based Detecting Security System",
-        "score": 0.6219,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15514645.txt",
-        "title": "Observatorio virtual sonoro basado en deep learning. Material complementario.",
-        "score": 0.4994,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15516215.txt",
-        "title": "3D Simulated Surface Defects Dataset on Car Doors for Deep Learning-Based Industrial Inspection",
-        "score": 0.2864,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15518158.txt",
-        "title": "A Comparative Study of Data Mining Algorithms for Weather Prediction",
-        "score": 0.283,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15517923.txt",
-        "title": "Emerging Trends in AI and Machine Learning",
-        "score": 0.2809,
-        "relevant": 1
-      }
-    ]
-  },
-  {
-    "query": "computer",
-    "results": [
-      {
-        "doc_id": "15517685.txt",
-        "title": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
-        "score": 0.3408,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15517883.txt",
-        "title": "Development and Implementation of a Custom License Plate Detection and Recognition System Using YOLOv10 and Tesseract OCR: A Comprehensive Study in Computer Vision and Optical Character Recognition Technologies",
-        "score": 0.2065,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15517573.txt",
-        "title": "Internet Layers: Connecting the World",
-        "score": 0.0547,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15517650.txt",
-        "title": "Binary Numbers and Bitwise Magic: A Fun Guide",
-        "score": 0.0486,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15267584.txt",
-        "title": "Conductance-based Model for Internal Partial Discharges",
-        "score": 0.0485,
-        "relevant": 1
-      }
-    ]
-  },
-  {
-    "query": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
-    "results": [
-      {
-        "doc_id": "15517685.txt",
-        "title": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
-        "score": 0.9928,
-        "relevant": 1
-      },
-      {
-        "doc_id": "15441330.txt",
-        "title": "MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps",
-        "score": 0.3203,
-        "relevant": 0
-      },
-      {
-        "doc_id": "15517883.txt",
-        "title": "Development and Implementation of a Custom License Plate Detection and Recognition System Using YOLOv10 and Tesseract OCR: A Comprehensive Study in Computer Vision and Optical Character Recognition Technologies",
-        "score": 0.2593,
-        "relevant": 0
-      },
-      {
-        "doc_id": "15517143.txt",
-        "title": "The Coherence Sphere. A Resonance-Based System for Energy, Healing, and Field Integration.",
-        "score": 0.2558,
-        "relevant": 0
-      },
-      {
-        "doc_id": "14801532.txt",
-        "title": "Data From: Exploring Gelatin-A and Mouse Proline-Rich Protein 5 as Probes for Wine Polyphenols analysis by Quartz Crystal Microbalance with Dissipation Monitoring",
-        "score": 0.2263,
-        "relevant": 0
-      }
-    ]
-  }
-]
+{
+  "query": "machine learning",
+  "results": [
+    {
+      "doc_id": "15533323.txt",
+      "title": "Mapping heterogeneous landscapes using sentinel-2 imagery and machine learning algorithms: A case of the Dindéresso classified forest",
+      "score": 0.5673,
+      "relevant": 1
+    },
+    {
+      "doc_id": "15534491.txt",
+      "title": "A Review: The Application of Machine Learning in the Agricultural Sector",
+      "score": 0.52,
+      "relevant": 1
+    },
+    {
+      "doc_id": "15532374.txt",
+      "title": "Rainfall and Weather Prediction using Machine Learning and AP",
+      "score": 0.4185,
+      "relevant": 1
+    },
+    {
+      "doc_id": "15534510.txt",
+      "title": "Artificial Intelligence, Machine Learning and Deep Learning in Advanced Robotics: A Review",
+      "score": 0.391,
+      "relevant": 0
+    },
+    {
+      "doc_id": "15534534.txt",
+      "title": "Shivalinga (Pind) Detection Using Machine Learning Techniques",
+      "score": 0.3143,
+      "relevant": 0
+    }
+  ]
+}

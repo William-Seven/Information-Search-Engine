@@ -1,0 +1,15 @@
+Title: Callable Bond Pricing using the Hull-White Model:A Comprehensive Analysis
+
+Authors: Sarvagya Jha
+
+Keywords: Interest Rate Modelling, Callable Bonds, Hull-White Model, Fixed Income Securities, Risk Management
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract:</strong> This paper comprehensively analyses callable bond pricing using the Hull-White interest rate model. We compare the performance of the Hull-White model with other short-rate models, namely the Vasicek and Cox-Ingersoll-Ross (CIR) models, in pricing callable bonds across various market conditions. We demonstrate through extensive numerical simulations and empirical analysis that the Hull-White model generally outperforms other models in fitting the initial term structure and pricing callable bonds, particularly in volatile interest rate environments. We also propose an improved parameter estimation method for the Hull-White model, which enhances its pricing accuracy. Furthermore, we explore the implications of using the Hull-White model for callable bond pricing on issuer and investor behavior. Our findings contribute to the literature on interest rate modelling and provide practical guidelines for financial professionals in callable bonds' valuation and risk management.
+
+
+Contents:
+ - A260105010525.pdf

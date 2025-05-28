@@ -1,0 +1,17 @@
+Title: Goods and Service Tax (GST)
+
+Authors: Vedangini Shah, Dr. Dnyandev Nitve
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+<div>
+
+<em><span>The introduction of the Goods and Services Tax (GST) in India on July 1, 2017, marked a transformative moment in the country&rsquo;s taxation history. GST aimed to unify the complex and fragmented indirect tax system, replacing multiple state and central taxes with a single tax structure. It was designed to eliminate the cascading effect of taxes, simplify compliance, and create a common national market. Despite its objectives, the implementation of GST faced several challenges, including technological issues, compliance difficulties, and revenue shortfalls for manufacturing states. This paper provides a detailed analysis of the GST framework, including its structure, implementation challenges, economic impact, and benefits. It also compares India&rsquo;s GST model with similar tax systems in other countries, examines the effect on different sectors, and proposes recommendations for improvement. A case study on the automobile industry highlights the impact of GST on business and consumer behavior. The study concludes that while GST has improved tax compliance and increased revenue collection, simplifying the tax structure and strengthening the GST Network (GSTN) can enhance its effectiveness.</span></em>
+
+</div>
+
+Contents:
+ - S0622189.pdf

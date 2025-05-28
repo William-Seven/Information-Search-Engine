@@ -1,0 +1,22 @@
+Title: Can we predict the collapse of human communication? Using computer simulations to finetune our theories
+
+Authors: Sevenants, Anthe, Speelman, Dirk, Van de Velde, Freek, Pijpops, Dirk
+
+Keywords: linguistics, language evolution, digital humanities
+
+Publication date: 2025-05-27
+
+Description:
+
+
+In the humanities, research questions in fields like linguistics, archaeology, and history often defy empirical investigation. Computer simulations provide a complementary approach, enabling the study of complex systems, i.e. systems driven by local interactions rather than a central authority.
+
+
+Language is such a self-organising system, shaped by countless local interactions. Simulations allow us to test theoretical questions, such as Bybee&rsquo;s theory of reduction, which links frequency of use to phonetic erosion. We use Python to model language users with memories of vectorised words. Communication occurs through vector comparisons, with reduction simulated as an attentuation of vector values. Our results show that cooperation between speakers and hearers is imperative for communication to remain successful under reduction.
+
+
+Our approach demonstrates how simulations pushes theoretical boundaries in the digital humanities. While not a substitute for empirical research, simulations extend our capacity to test hypotheses, refine theories, and deepen our understanding of complex systems.
+
+
+Contents:
+ - Sevenants2025_DHB2025.pdf

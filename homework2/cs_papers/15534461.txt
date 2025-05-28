@@ -1,0 +1,15 @@
+Title: TRExFitter
+
+Authors: Aly, Mohamed, Dado, Tomas, Held, Alexander, Pinamonti, Michele, Valery, Loic
+
+Keywords: 
+
+Publication date: 2025-05-28
+
+Description:
+
+TRExFitter a framework to perform profile likelihood fits, extensively used in the ATLAS Collaboration at CERN.
+
+
+Contents:
+ - 1.2.1.zip

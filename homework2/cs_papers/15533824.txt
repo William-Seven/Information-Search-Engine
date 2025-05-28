@@ -1,0 +1,15 @@
+Title: Structure, Function and Clinical Significance of P53 Protein: A Review Article
+
+Authors: Farah mumtaz, Hadeel Nasser, Ruqaya Yahya Abd AL-Shaheed, Ali A. Al-fahham
+
+Keywords: ---------------
+
+Publication date: 2025-05-28
+
+Description:
+
+The TP53 gene encodes the critical tumor suppressor p53, which is involved in the regulation of cell cycle control, apoptosis, and genomic stability. In cancer biology, p53 holds an elevated position because high mutation rates in the TP53 gene across human cancers lead to abnormal p53 protein. This would allow limitless replication of genetically damaged cells with malignant potential and so facilitate tumorigenesis. Normally referred to as the &ldquo;guardian of the genome,&rdquo; this protein assumes a central role in different cellular functions spanning metabolism through cell cycle checkpoints and apoptosis to DNA repair mechanisms. Its significance extends beyond tumor suppression because it controls metabolic pathways that are central to maintaining homeostasis under normal physiological conditions. The normal functions of p53 as a tumor suppressor are abrogated by mutations; indeed, many such mutant forms act as oncogenes themselves when expressed in cancer cells. The review paper presents information from recent scientific investigations on the chemical structure of p53 protein and its mutations with a discussion on implications for cancer treatment. It also integrates various research findings to clarify the clinical effects of the p53 gene, especially in breast cancer and myelodysplastic syndromes (MDS), and looks into changing treatment plans that focus on p53 problems.
+
+
+Contents:
+ - 10.pdf

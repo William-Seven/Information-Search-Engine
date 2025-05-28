@@ -1,0 +1,15 @@
+Title: A Survey on Centralized Event Management System
+
+Authors: Abdul Raheem P.C, Jaseem C.P, Muhammed Qinan P.K., Vyshnav P., Mohamed Mubarak T.
+
+Keywords: Event management, automation, attendance tracking, digital platform, certificate generation, university coordination
+
+Publication date: 2025-05-28
+
+Description:
+
+<em><span>This paper introduces an innovative digital platform designed to automate and streamline event coordination. This system reduces manual efforts in administrative tasks such as event hosting, registration, attendance tracking, duty leave allocation, activity point distribution, and certificate generation. By providing a centralized and scalable platform, CEMS enables seamless collaboration among stakeholders, improves event accessibility, and enhances overall efficiency. The proposed system leverages modern technologies, including Flutter for the front-end, Django for the backend, and PostgreSQL for secure data storage. This paper presents the system&rsquo;s architecture, methodology, and evaluation results, demonstrating its effectiveness in optimizing event management in educational institutions. </span></em>
+
+
+Contents:
+ - A Survey on Centralized Event Management System -Formatted Paper.pdf

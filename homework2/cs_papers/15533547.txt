@@ -1,0 +1,18 @@
+Title: Hybrid Energy Harvesting for Self-Sustaining Electronics: Solar, Thermal, and RF Solutions
+
+Authors: Snehal Jadhav, Mahadeo Pisal
+
+Keywords: 
+
+Publication date: 2025-03-30
+
+Description:
+
+<em><span>Energy harvesting from ambient sources is an innovative technology that enables self-powered electronic systems by converting naturally available energy into usable electrical power. This approach reduces reliance on conventional batteries, extending device lifetimes and minimizing environmental impact. Key energy sources for harvesting include solar radiation, thermal gradients, and radio frequency (RF) waves, each with unique advantages and challenges. Solar energy, harnessed through photovoltaic (PV) cells, is highly efficient in outdoor environments and has seen advancements in thin-film and perovskite materials for improved low-light performance. Thermal energy harvesting, using thermoelectric generators (TEGs), efficiently converts temperature differences into electricity, making it ideal for industrial waste heat recovery and wearable electronics. RF energy harvesting captures ambient electromagnetic waves from Wi-Fi, cellular networks, and radio transmissions, enabling low-power IoT devices and remote sensors to function without wired power sources. However, each of these energy sources faces limitations, such as efficiency degradation, environmental dependency, and restricted power output, requiring innovative solutions to enhance their practical applications.</span></em>
+
+
+<em><span>To overcome these limitations, hybrid energy harvesting systems integrate multiple sources to improve power availability and reliability. By combining solar, thermal, and RF energy, these systems can ensure continuous energy supply, even in fluctuating environmental conditions. Technologies like solar-thermal hybrids maximize energy extraction by utilizing both light and heat, while RF-solar hybrids supplement solar power with ambient electromagnetic waves. Additionally, advanced power management techniques, including maximum power point tracking (MPPT) algorithms and energy-efficient storage solutions such as supercapacitors and micro-batteries, further optimize harvested energy for electronic applications. Future advancements in high-efficiency materials, miniaturized components, and AI-driven power optimization will play a crucial role in developing self-sustaining electronic devices. As energy harvesting technology continues to evolve, it holds the potential to revolutionize IoT, wearable electronics, and industrial applications, providing a sustainable and long-lasting power solution for modern electronics.</span></em>
+
+
+Contents:
+ - S0622158.pdf

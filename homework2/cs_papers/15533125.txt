@@ -1,0 +1,18 @@
+Title: Enhancing Research Reproducibility: TIER2's Contributions to the European Open Science Cloud (EOSC)
+
+Authors: Amodeo, Stefania, Ross-Hellauer, Tony, Manola, Natalia, Sansone, Susanna-Assunta, Lister, Allyson, Adamidi, Eleni, Leitner, Barbara, Momeni, Fakhri, Schneider, Jesper Wiborg, Papadopoulou, Elli
+
+Keywords: 
+
+Publication date: 2025-05-28
+
+Description:
+
+TIER2 is a three-year international project jointly funded by the European Union (Horizon&nbsp;Europe) and UKRI. The project systematically investigates reproducibility across different&nbsp;research contexts, examining epistemological, social, and technical factors. To address&nbsp;these challenges, TIER2 develops and tests new tools and interventions through eight pilot&nbsp;activities. The project aims to bridge knowledge gaps, implement innovative solutions for&nbsp;managing digital objects across their full lifecycle, from data collection and research&nbsp;processes through to publication and preservation. The project also works to foster research&nbsp;communities, and influence policy to enhance reproducibility and research quality. Through&nbsp;co-creation methods, TIER2 actively collaborates with researchers, funders, and publishers&nbsp;to ensure practical and impactful outcomes.
+
+
+This briefing outlines TIER2's eight pilots' contributions to the European Open Science Cloud (EOSC) and demonstrates how the tools, methodologies, and findings align with EOSC's mission to enhance open and reproducible science across Europe.
+
+
+Contents:
+ - Enhancing Research Reproducibility TIER2’s Contributions to the European Open Science Cloud (EOSC).pdf
