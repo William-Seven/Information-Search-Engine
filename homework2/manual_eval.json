@@ -1,34 +1,34 @@
 {
-  "query": "machine learning",
+  "query": "computer",
   "results": [
     {
-      "doc_id": "15533323.txt",
-      "title": "Mapping heterogeneous landscapes using sentinel-2 imagery and machine learning algorithms: A case of the Dindéresso classified forest",
-      "score": 0.5673,
+      "doc_id": "15534391.txt",
+      "title": "Exploring the Application and Practice of Computer Science Technology in the Big Data Era",
+      "score": 0.3962,
       "relevant": 1
     },
     {
-      "doc_id": "15534491.txt",
-      "title": "A Review: The Application of Machine Learning in the Agricultural Sector",
-      "score": 0.52,
+      "doc_id": "15530821.txt",
+      "title": "Can we predict the collapse of human communication? Using computer simulations to finetune our theories",
+      "score": 0.3383,
+      "relevant": 1
+    },
+    {
+      "doc_id": "15532771.txt",
+      "title": "Computer Aided Carbon Footprint Estimation in Educational Institutions",
+      "score": 0.3108,
+      "relevant": 1
+    },
+    {
+      "doc_id": "15488435.txt",
+      "title": "Digitizing Historical Regesta: A Comparative Analysis of Computer Vision and Neural Network-Based OCR Methods",
+      "score": 0.3067,
       "relevant": 1
     },
     {
       "doc_id": "15532374.txt",
       "title": "Rainfall and Weather Prediction using Machine Learning and AP",
-      "score": 0.4185,
-      "relevant": 1
-    },
-    {
-      "doc_id": "15534510.txt",
-      "title": "Artificial Intelligence, Machine Learning and Deep Learning in Advanced Robotics: A Review",
-      "score": 0.391,
-      "relevant": 0
-    },
-    {
-      "doc_id": "15534534.txt",
-      "title": "Shivalinga (Pind) Detection Using Machine Learning Techniques",
-      "score": 0.3143,
+      "score": 0.2267,
       "relevant": 0
     }
   ]

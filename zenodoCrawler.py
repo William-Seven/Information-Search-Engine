@@ -3,6 +3,7 @@ import os
 from time import sleep
 import json
 
+
 class ZenodoRecord:
     def __init__(self, record_id, title, authors, keywords, publication_date, description, files):
         self.record_id = record_id
@@ -24,6 +25,7 @@ class ZenodoRecord:
             "files": self.files
         }
 
+
 def find_pdf_url(record):
     """根据 Zenodo 官方文件结构检测 PDF 文件"""
     files = record.get('files', [])
@@ -34,6 +36,7 @@ def find_pdf_url(record):
         if file_key.endswith('.pdf') or file_type == 'application/pdf':
             return file.get('links', {}).get('self', '')
     return None
+
 
 def save_metadata_to_txt(record, output_path):
     """将记录元数据保存到txt文件"""
@@ -54,7 +57,8 @@ def save_metadata_to_txt(record, output_path):
 
         # 写入描述
         f.write("Description:\n")
-        f.write(record.description.replace('<p>', '\n').replace('</p>', '\n').replace('<br>', '\n').replace('<br/>', '\n'))
+        f.write(
+            record.description.replace('<p>', '').replace('</p>', '\n').replace('<br>', '').replace('<br/>', '').replace('<ul>','').replace('</ul>','').replace('<li>','').replace('</li>',''))
         f.write("\n\n")
 
         # 写入文件信息
@@ -63,6 +67,7 @@ def save_metadata_to_txt(record, output_path):
             for file in record.files:
                 file_key = file.get('key', 'unknown')
                 f.write(f" - {file_key}\n")
+
 
 def zenodo_crawler(search_query, max_results=10, sort_by="mostrecent",
                    download_pdf=False, output_dir='./zenodo_records'):
@@ -143,12 +148,13 @@ def zenodo_crawler(search_query, max_results=10, sort_by="mostrecent",
     except Exception as e:
         print(f"Error occurred: {str(e)}")
 
+
 if __name__ == "__main__":
-    search_query = "computer science"
+    search_query = "machine learning"
     zenodo_crawler(
         search_query=search_query,
-        max_results=200,
+        max_results=500,
         sort_by="mostrecent",
         download_pdf=False,
-        output_dir="./homework2/cs_papers"
+        output_dir="homework3/cs_papers"
     )
