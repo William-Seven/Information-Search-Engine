@@ -173,5 +173,237 @@
         "relevant": 0
       }
     ]
+  },
+  {
+    "query": "machine learning",
+    "results": [
+      {
+        "title": "Emerging Trends in AI and Machine Learning",
+        "relevant": 1
+      },
+      {
+        "title": "The Natural Language Processing Axioms in Classical Tamil for Zonal Dialects using Machine Learning",
+        "relevant": 1
+      },
+      {
+        "title": "Dataset for: A web-based app for sunn pest species recognition (Hemiptera: Scutelleridae: Eurygaster) using machine learning",
+        "relevant": 1
+      },
+      {
+        "title": "An enhanced machine learning plagioclase-liquid hygrometer for magmatic H2O estimation across different tectonic settings",
+        "relevant": 1
+      },
+      {
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "language model",
+    "results": [
+      {
+        "title": "IMPROVING STUDENTS' LANGUAGE SKILLS THROUGH NEW INTEGRATED APPROACHES IN MODERN LANGUAGE TEACHING",
+        "relevant": 1
+      },
+      {
+        "title": "Analisis Penerapan Pembelajaran Billingual dengan Model PBL Berbantuan Platform ABCya Pada Materi Bentuk Geometri Bangun Ruang",
+        "relevant": 0
+      },
+      {
+        "title": "3D-printable models of the Tomba dei Rilievi (Tomb of the Reliefs) at Cerveteri",
+        "relevant": 0
+      },
+      {
+        "title": "MoM (Model Management) Challenge 2025 - Satellite Configuration",
+        "relevant": 0
+      },
+      {
+        "title": "COMPARATIVE ANALYSIS OF CONSONANTS IN ENGLISH AND UZBEK LANGUAGES",
+        "relevant": 1
+      },
+      {
+        "title": "R scripts for \"Global biome changes over the last 21,000 years inferred from model–data comparisons\"",
+        "relevant": 0
+      },
+      {
+        "title": "THE ROLE OF SPEAKING IN LANGUAGE LEARNING",
+        "relevant": 1
+      },
+      {
+        "title": "An empirical agent-based model for Regional Twin Transition Pathways: Ideas for model enrichments through foresight",
+        "relevant": 0
+      },
+      {
+        "title": "THE IMPACT OF USING GAMES ON COMMUNICATIVE LANGUAGE TEACHING",
+        "relevant": 0
+      },
+      {
+        "title": "LINGUOPRAGMATIC AND LINGUOCULTURAL STRUCTURE OF IMPERATIVE SENTENCES (ON EXAMPLE OF ENGLISH AND UZBEK LANGUAGES)",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "Noi modele de afaceri ca urmare a sustenabilității",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "Small-Medium Business Enterprise Management Application",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "IDIOMS IN BUSINESS COMMUNICATION: A LEXICOGRAPHICAL AND FUNCTIONAL ANALYSIS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "TOURISM-DRIVEN TRANSFORMATION OF LOCAL BUSINESS ECOSYSTEMS IN UZBEKISTAN: AN EXAMPLE OF SAMARKAND REGION",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "Business Environment and Entrepreneurial Intention among Employed Individuals",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "Crisis Communications in the Digital Era: Managing Information in Times of Uncertainty",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "Supporting Information for \"Nine Martian Years of polar caps observations by SPICAM-IR/Mars-Express\"",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "TC-Trissea (Tuguegarao City Tricycle Riders Information, Security and Satisfaction Enhancement App): A Proposed Mobile App for Tricycle Commuters of Tuguegarao City",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "EARLS: European aggregated reconstruction for large-sample studies",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "Geospatial Data Interpretation of the Land Suitability of Heavy Chernozems (Karasolutsi) from North – East Bulgaria for Growing Agricultural Crops",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "IMPROVEMENT OF THE SYSTEM OF TRAINING FORENSIC EXPERTS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "Analisis Penerapan Pembelajaran Billingual dengan Model PBL Berbantuan Platform ABCya Pada Materi Bentuk Geometri Bangun Ruang",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "Emerging Trends in AI and Machine Learning",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "Emerging Trends in AI and Machine Learning",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "IMPROVEMENT OF THE SYSTEM OF TRAINING FORENSIC EXPERTS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "IMPROVEMENT OF THE SYSTEM OF TRAINING FORENSIC EXPERTS",
+        "relevant": 1
+      }
+    ]
   }
 ]
