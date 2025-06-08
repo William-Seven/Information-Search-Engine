@@ -26,15 +26,15 @@ def preprocess_query(text):
 
 
 def load_index_data():
-    with open(f"{BASE_DIR}/keys.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'keys.json'), 'r', encoding='utf-8') as f:
         keywords = json.load(f)
-    with open(f"{BASE_DIR}/doc_vectors.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'doc_vectors.json'), 'r', encoding='utf-8') as f:
         doc_vectors = json.load(f)
-    with open(f"{BASE_DIR}/processed_docs.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'processed_docs.json'), 'r', encoding='utf-8') as f:
         docs = json.load(f)
-    with open(f"{BASE_DIR}/inverted_index.json", 'r', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'inverted_index.json'), 'r', encoding='utf-8') as f:
         inverted_index = json.load(f)
-    with open(f"{BASE_DIR}/vectorizer.pkl", 'rb') as f:
+    with open(os.path.join(BASE_DIR, 'vectorizer.pkl'), 'rb') as f:
         vectorizer = pickle.load(f)
     return keywords, doc_vectors, docs, inverted_index, vectorizer
 

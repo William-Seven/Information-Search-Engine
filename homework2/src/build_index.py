@@ -5,8 +5,9 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import defaultdict
 
-INPUT_JSON = r"E:\WILLIAMZHANG\InfoKnowAcq\homework2\processed_docs.json"
-OUTPUT_DIR = r"E:\WILLIAMZHANG\InfoKnowAcq\homework2"
+# 修改为相对路径
+INPUT_JSON = os.path.join(os.path.dirname(__file__), '..', 'processed_docs.json')
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), '..')
 TOP_K = 800  # 关键词数量
 
 
@@ -75,6 +76,8 @@ def build_doc_vectors(tfidf_matrix, doc_ids, top_keywords, vectorizer):
 
 
 def save_json(obj, path):
+    # 确保目录存在
+    os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(obj, f, indent=2, ensure_ascii=False)
 
