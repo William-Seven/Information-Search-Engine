@@ -1,162 +1,107 @@
-[
-  {
-    "field": "Title",
-    "value": "Data from: Predicting success of conservation translocations: Prerelease screening tools for a threatened marsupial",
+{
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldTitle": {
     "correct": true
   },
-  {
-    "field": "Authors",
-    "value": "['Cornelsen', 'Kate', 'Elphinstone', 'Andrew', 'Jordan', 'Neil']",
-    "correct": true
-  },
-  {
-    "field": "Keywords",
-    "value": "['Personality', 'Personality tests', 'Personality traits', 'Animal behavior', 'Conservation science', 'Evolutionary ecology']",
-    "correct": true
-  },
-  {
-    "field": "Publication Date",
-    "value": "2025-05-28",
-    "correct": true
-  },
-  {
-    "field": "Description",
-    "value": "Individual animals differ in their responses to environmental challenges. Identifying these differences before animals are translocated could be a useful tool in improving postrelease success. For most species, however, uncertainty persists around which behaviours contribute to postrelease success. Greater bilbies, <em>Macrotis lagotis</em>, are a threatened species, for which detailed behavioural studies in situ are rare. We tested bilbies prior to their release to a fenced safe haven to examine whether (1) bilby response to a known threat (that is, human observer) and novelty (that is, novel scent) was individually different and repeatable, or alternatively plastic, and (2) if any behaviours were related to bilby fitness (breeding success and survival) postrelease. We found that several behaviours measured during trapping (exposure to a known threat) were individually variable and repeatable and that males that were less responsive (lower respiratory rate) during handling had greater breeding success (that is, the number of offspring sired relative to the opportunity to breed). Contrastingly, individual differences in bilby response to novel scents were not repeatable, but we did, however, find sex-specific responses in this context. Males took less time to initiate touch with the novel-scented object and touched the object more times than females, suggesting that males are less neophobic. Plasticity rather than personality predicted female post-release fitness. Females that were increasingly cautious of novelty had greater relative breeding success. Our study is the first to confirm repeatable and plastic behaviours in bilbies, develop a standardized test for prerelease screening of behaviours, and examine the fitness consequences of these behaviours. We encourage the use of the 'trap test' as a simple and practical way to screen bilbies for future conservation translocations. We also recommend further testing in environments where the risk of establishment failure may be higher (that is, invasive predators present) and where the fitness consequences may be more profound and thus detectable.\n\n\nContents:\n - R_code.zip",
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldAuthors": {
     "correct": false
   },
-  {
-    "field": "URLs",
-    "value": "[]",
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldKeywords": {
     "correct": true
   },
-  {
-    "field": "DOIs",
-    "value": "[]",
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldPublication Date": {
     "correct": true
   },
-  {
-    "field": "Title",
-    "value": "Data from: Predicting success of conservation translocations: Prerelease screening tools for a threatened marsupial",
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldDescription": {
     "correct": true
   },
-  {
-    "field": "Authors",
-    "value": "['Cornelsen', 'Kate', 'Elphinstone', 'Andrew', 'Jordan', 'Neil']",
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldGitHub Link": {
     "correct": true
   },
-  {
-    "field": "Keywords",
-    "value": "['Personality', 'Personality tests', 'Personality traits', 'Animal behavior', 'Conservation science', 'Evolutionary ecology']",
+  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldDOI": {
     "correct": true
   },
-  {
-    "field": "Publication Date",
-    "value": "2025-05-28",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldTitle": {
     "correct": true
   },
-  {
-    "field": "Description",
-    "value": "Individual animals differ in their responses to environmental challenges. Identifying these differences before animals are translocated could be a useful tool in improving postrelease success. For most species, however, uncertainty persists around which behaviours contribute to postrelease success. Greater bilbies, <em>Macrotis lagotis</em>, are a threatened species, for which detailed behavioural studies in situ are rare. We tested bilbies prior to their release to a fenced safe haven to examine whether (1) bilby response to a known threat (that is, human observer) and novelty (that is, novel scent) was individually different and repeatable, or alternatively plastic, and (2) if any behaviours were related to bilby fitness (breeding success and survival) postrelease. We found that several behaviours measured during trapping (exposure to a known threat) were individually variable and repeatable and that males that were less responsive (lower respiratory rate) during handling had greater breeding success (that is, the number of offspring sired relative to the opportunity to breed). Contrastingly, individual differences in bilby response to novel scents were not repeatable, but we did, however, find sex-specific responses in this context. Males took less time to initiate touch with the novel-scented object and touched the object more times than females, suggesting that males are less neophobic. Plasticity rather than personality predicted female post-release fitness. Females that were increasingly cautious of novelty had greater relative breeding success. Our study is the first to confirm repeatable and plastic behaviours in bilbies, develop a standardized test for prerelease screening of behaviours, and examine the fitness consequences of these behaviours. We encourage the use of the 'trap test' as a simple and practical way to screen bilbies for future conservation translocations. We also recommend further testing in environments where the risk of establishment failure may be higher (that is, invasive predators present) and where the fitness consequences may be more profound and thus detectable.\n\n\nContents:\n - R_code.zip",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldAuthors": {
     "correct": false
   },
-  {
-    "field": "URLs",
-    "value": "[]",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldKeywords": {
     "correct": true
   },
-  {
-    "field": "DOIs",
-    "value": "[]",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldPublication Date": {
     "correct": true
   },
-  {
-    "field": "Title",
-    "value": "Data from: Predicting success of conservation translocations: Prerelease screening tools for a threatened marsupial",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldDescription": {
     "correct": true
   },
-  {
-    "field": "Authors",
-    "value": "['Cornelsen', 'Kate', 'Elphinstone', 'Andrew', 'Jordan', 'Neil']",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldGitHub Link": {
     "correct": true
   },
-  {
-    "field": "Keywords",
-    "value": "['Personality', 'Personality tests', 'Personality traits', 'Animal behavior', 'Conservation science', 'Evolutionary ecology']",
+  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldDOI": {
     "correct": true
   },
-  {
-    "field": "Publication Date",
-    "value": "2025-05-28",
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldTitle": {
     "correct": true
   },
-  {
-    "field": "Description",
-    "value": "Individual animals differ in their responses to environmental challenges. Identifying these differences before animals are translocated could be a useful tool in improving postrelease success. For most species, however, uncertainty persists around which behaviours contribute to postrelease success. Greater bilbies, <em>Macrotis lagotis</em>, are a threatened species, for which detailed behavioural studies in situ are rare. We tested bilbies prior to their release to a fenced safe haven to examine whether (1) bilby response to a known threat (that is, human observer) and novelty (that is, novel scent) was individually different and repeatable, or alternatively plastic, and (2) if any behaviours were related to bilby fitness (breeding success and survival) postrelease. We found that several behaviours measured during trapping (exposure to a known threat) were individually variable and repeatable and that males that were less responsive (lower respiratory rate) during handling had greater breeding success (that is, the number of offspring sired relative to the opportunity to breed). Contrastingly, individual differences in bilby response to novel scents were not repeatable, but we did, however, find sex-specific responses in this context. Males took less time to initiate touch with the novel-scented object and touched the object more times than females, suggesting that males are less neophobic. Plasticity rather than personality predicted female post-release fitness. Females that were increasingly cautious of novelty had greater relative breeding success. Our study is the first to confirm repeatable and plastic behaviours in bilbies, develop a standardized test for prerelease screening of behaviours, and examine the fitness consequences of these behaviours. We encourage the use of the 'trap test' as a simple and practical way to screen bilbies for future conservation translocations. We also recommend further testing in environments where the risk of establishment failure may be higher (that is, invasive predators present) and where the fitness consequences may be more profound and thus detectable.",
-    "correct": true
-  },
-  {
-    "field": "URLs",
-    "value": "[]",
-    "correct": true
-  },
-  {
-    "field": "DOIs",
-    "value": "[]",
-    "correct": true
-  },
-  {
-    "field": "spaCy_PERSONS",
-    "value": "['Contrastingly', 'Kate', 'Jordan', 'Andrew', 'Neil']",
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldAuthors": {
     "correct": false
   },
-  {
-    "field": "spaCy_ORGS",
-    "value": "['Elphinstone']",
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldKeywords": {
+    "correct": true
+  },
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldPublication Date": {
+    "correct": true
+  },
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldDescription": {
+    "correct": true
+  },
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldGitHub Link": {
+    "correct": true
+  },
+  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldDOI": {
+    "correct": true
+  },
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldTitle": {
+    "correct": true
+  },
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldAuthors": {
     "correct": false
   },
-  {
-    "field": "spaCy_DATES",
-    "value": "['2025-05-28\\n\\nDescription']",
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldKeywords": {
     "correct": true
   },
-  {
-    "field": "spaCy_CARDINALS",
-    "value": "['1', '2']",
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldPublication Date": {
     "correct": true
   },
-  {
-    "field": "spaCy_ORDINALS",
-    "value": "['first']",
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldDescription": {
     "correct": true
   },
-  {
-    "field": "title",
-    "value": "Anomaly Detection",
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldGitHub Link": {
     "correct": true
   },
-  {
-    "field": "title",
-    "value": "Anomaly Detection",
+  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldDOI": {
     "correct": true
   },
-  {
-    "field": "title",
-    "value": "Anomaly Detection",
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldTitle": {
     "correct": true
   },
-  {
-    "field": "title",
-    "value": "Anomaly Detection",
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldAuthors": {
+    "correct": false
+  },
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldKeywords": {
     "correct": true
   },
-  {
-    "field": "title",
-    "value": "Anomaly Detection",
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldPublication Date": {
     "correct": true
   },
-  {
-    "field": "title",
-    "value": "Anomaly Detection",
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldDescription": {
+    "correct": true
+  },
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldGitHub Link": {
+    "correct": true
+  },
+  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldDOI": {
     "correct": true
   }
-]
+}
