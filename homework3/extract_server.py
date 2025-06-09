@@ -234,6 +234,7 @@ def check_feedback_incorrect():
 @app.route('/feedback/history', methods=['POST'])
 def get_history():
     """
+    API接口用于查看程序的文本提取记录与相对应的人工评价
     @request
         - Content-Type: application/json
         - Body: {"Num": num}
@@ -291,7 +292,7 @@ def get_history():
                 accuracy = correct_fields / total_fields
             else:
                 accuracy = None
-            data["accuracy"] = accuracy
+            correct_history[uuid]["accuracy"] = accuracy
 
         return jsonify({"status": "success", "history": latest_records, "correct_history": correct_history}), 200
     except Exception as e:
@@ -311,7 +312,8 @@ def home():
         "endpoints": {
             "/extract (POST)": "从文本中提取信息。需要 'text' 字段。",
             "/feedback (POST)": "提交提取结果的反馈。需要 'field', 'value', 'correct' 字段。",
-            "/feedback/check_incorrect (POST)": "检查某个字段值是否曾被标记为不正确。需要 'field', 'value' 字段。"
+            "/feedback/check_incorrect (POST)": "检查某个字段值是否曾被标记为不正确。需要 'field', 'value' 字段。",
+            "/feedback/history (POST)": "获取提取记录，并获取相对应的人工评价结果"
         }
     })
 
