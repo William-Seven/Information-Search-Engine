@@ -50,5 +50,17 @@
       "ai": 1,
       "machine": 1
     }
+  },
+  "train label distribution\n\n3500\n\n3000\n\n2500\n\n2000\n\n1500\n\n1000\n\n500\n\ntest label distribution\n\n1000 +\n\n8004\n\n600 7\n\n4007\n\n200 4": {
+    "positive": {
+      "distribution": 1,
+      "scope": 1,
+      "marking": 1
+    },
+    "negative": {
+      "distribution": 1,
+      "scope": 1,
+      "marking": 1
+    }
   }
 }
