@@ -7,11 +7,16 @@ from settings import FEEDBACK_FILE, OUTPUT_JSON_FILE
 app = Flask(__name__)
 
 
-def save_feedback(field, value, correct):
+def generalize_key(uuid, field):
+    return "uuid:" + uuid + "field" + field
+
+
+def save_feedback(uuid, field, correct):
     """
     保存用户对提取结果的反馈。
     """
-    entry = {"field": field, "value": value, "correct": correct}
+    entry = {"correct": correct}
+    key = generalize_key(uuid, field)
     feedback_data = []
     if os.path.exists(FEEDBACK_FILE):
         try:
@@ -19,13 +24,13 @@ def save_feedback(field, value, correct):
                 feedback_data = json.load(feedback_file)
         except json.JSONDecodeError:
             # 如果文件为空或损坏，则重新初始化
-            feedback_data = []
-    feedback_data.append(entry)
+            feedback_data = {}
+    feedback_data[key] = entry
     with open(FEEDBACK_FILE, "w", encoding="utf-8") as feedback_file:
         json.dump(feedback_data, feedback_file, indent=2, ensure_ascii=False)
 
 
-def was_incorrect(field, value):
+def was_incorrect(key):
     """
     检查某个字段值之前是否曾被标记为不正确。
     """
@@ -36,9 +41,12 @@ def was_incorrect(field, value):
             feedback_data = json.load(f)
     except json.JSONDecodeError:
         return False  # 文件损坏或为空
-    for entry in feedback_data:
-        if entry["field"] == field and entry["value"] == value and not entry["correct"]:
-            return True
+    # for entry in feedback_data:
+    #     if entry["field"] == field and entry["value"] == value and not entry["correct"]:
+    if key not in feedback_data:
+        return True
+    if feedback_data[key]["correct"] is True:
+        return True
     return False
 
 
@@ -117,7 +125,7 @@ def extract_data():
         - Content-Type: application/json
         - Body: {"text": "文本内容"}
     @response:
-        - 200 OK: {"status": "success", "data": {"Title": "标题", "Authors": ["作者1", "作者2"], ...}}
+        - 200 OK: {"status": "success", "data": {"Title": "标题", "Authors": ["作者1", "作者2"], ...}, "uuid": uuid}
         - 400 Bad Request: {"error": "请求必须是 JSON 格式"}
         - 400 Bad Request: {"error": "请求体中缺少 'text' 字段"}
         - 500 Internal Server Error: {"error": "服务器内部错误: 错误信息"}
@@ -151,7 +159,7 @@ def extract_data():
         with open(OUTPUT_JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(all_extracted_data, f, indent=2, ensure_ascii=False)
 
-        return jsonify({"status": "success", "data": extracted_info}), 200
+        return jsonify({"status": "success", "data": extracted_info, "uuid": entry_id}), 200
     except Exception as e:
         app.logger.error(f"提取过程中发生错误: {e}", exc_info=True)
         return jsonify({"error": f"服务器内部错误: {str(e)}"}), 500
@@ -163,7 +171,7 @@ def submit_feedback():
     API 接口用于接收用户对提取结果的反馈。
     @request:
         - Content-Type: application/json
-        - Body: {"field": "字段名", "value": "字段值", "correct": true/false}
+        - Body: {"uuid": uuid, "field": "字段名", "correct": true/false}
     @response:
         - 200 OK: {"status": "success", "message": "反馈已保存"}
         - 400 Bad Request: {"error": "请求必须是 JSON 格式"}
@@ -175,18 +183,18 @@ def submit_feedback():
         return jsonify({"error": "请求必须是 JSON 格式"}), 400
 
     data = request.get_json()
+    uuid = data.get('uuid')
     field = data.get('field')
-    value = data.get('value')
     correct = data.get('correct')
 
-    if field is None or value is None or correct is None:
-        return jsonify({"error": "请求体中缺少 'field', 'value' 或 'correct' 字段"}), 400
+    if field is None or correct is None:
+        return jsonify({"error": "请求体中缺少 'field' 或 'correct' 字段"}), 400
 
     if not isinstance(correct, bool):
         return jsonify({"error": "'correct' 字段必须是布尔值 (true/false)"}), 400
 
     try:
-        save_feedback(field, str(value), correct)  # 确保value是字符串以便保存
+        save_feedback(uuid, field, correct)  # 确保value是字符串以便保存
         return jsonify({"status": "success", "message": "反馈已保存"}), 200
     except Exception as e:
         app.logger.error(f"保存反馈时发生错误: {e}", exc_info=True)
@@ -199,7 +207,7 @@ def check_feedback_incorrect():
     API 接口用于检查某个字段值是否曾被标记为不正确。
     @request:
         - Content-Type: application/json
-        - Body: {"field": "字段名", "value": "字段值"}
+        - Body: {"uuid": uuid, "field": "字段名"}
     @response:
         - 200 OK: {"status": "success", "was_incorrect": true/false}
         - 400 Bad Request: {"error": "请求必须是 JSON 格式"}
@@ -210,17 +218,87 @@ def check_feedback_incorrect():
         return jsonify({"error": "请求必须是 JSON 格式"}), 400
 
     data = request.get_json()
+    uuid = data.get('uuid')
     field = data.get('field')
-    value = data.get('value')
 
-    if field is None or value is None:
-        return jsonify({"error": "请求体中缺少 'field' 或 'value' 字段"}), 400
+    if field is None:
+        return jsonify({"error": "请求体中缺少 'field'"}), 400
 
     try:
-        incorrect = was_incorrect(field, str(value))
+        key = generalize_key(uuid, field)
+        incorrect = was_incorrect(key)
         return jsonify({"status": "success", "was_incorrect": incorrect}), 200
     except Exception as e:
         app.logger.error(f"检查反馈时发生错误: {e}", exc_info=True)
+        return jsonify({"error": f"服务器内部错误: {str(e)}"}), 500
+
+
+@app.route('/feedback/history', methods=['POST'])
+def get_history():
+    """
+    API接口用于查看程序的文本提取记录与相对应的人工评价
+    @request
+        - Content-Type: application/json
+        - Body: {"Num": num}
+    @response:
+        - 200 OK: {"status": "success", "history": [uuid1: data, uuid2: data, ...], "correct_history": [uuid1: data, uuid2: data, ...]}
+        - 400 Bad Request: {"error": "请求体中缺少 'Num' 字段"}
+        - 400 Bad Request: {"error": "'Num' 字段必须是正整数"}
+        - 500 Internal Server Error: {"error": "服务器内部错误: 错误信息"}
+    """
+    try:
+        # 检查请求是否为 JSON 格式
+        if not request.is_json:
+            return jsonify({"error": "请求必须是 JSON 格式"}), 400
+
+        data = request.get_json()
+        num = data.get('Num')
+
+        # 检查 Num 是否存在且为正整数
+        if num is None:
+            return jsonify({"error": "请求体中缺少 'Num' 字段"}), 400
+        if not isinstance(num, int) or num <= 0:
+            return jsonify({"error": "'Num' 字段必须是正整数"}), 400
+
+        all_extracted_data = {}
+        if os.path.exists(OUTPUT_JSON_FILE):
+            with open(OUTPUT_JSON_FILE, "r", encoding="utf-8") as f:
+                all_extracted_data = json.load(f)
+
+        feedback_data = {}
+        if os.path.exists(FEEDBACK_FILE):
+            try:
+                with open(FEEDBACK_FILE, "r", encoding="utf-8") as feedback_file:
+                    feedback_data = json.load(feedback_file)
+            except json.JSONDecodeError:
+                feedback_data = {}
+
+        # 获取最新的 num 条记录
+        latest_records = dict(list(all_extracted_data.items())[-num:])
+        correct_history = {}  # 初始化 correct_history 为一个空字典
+
+        for uuid, data in latest_records.items():
+            total_fields = 0
+            correct_fields = 0
+            correct_history[uuid] = {}  # 初始化 correct_history[uuid] 为一个空字典
+            for field in data.keys():
+                key = generalize_key(uuid, field)
+                if key in feedback_data:
+                    total_fields += 1
+                    correct_history[uuid][field] = feedback_data[key]["correct"]
+                    if feedback_data[key]["correct"]:
+                        correct_fields += 1
+                else:
+                    correct_history[uuid][field] = None  # 如果没有反馈，则标记为 None
+            if total_fields > 0:
+                accuracy = correct_fields / total_fields
+            else:
+                accuracy = None
+            correct_history[uuid]["accuracy"] = accuracy
+
+        return jsonify({"status": "success", "history": latest_records, "correct_history": correct_history}), 200
+    except Exception as e:
+        app.logger.error(f"获取历史记录时发生错误: {e}", exc_info=True)
         return jsonify({"error": f"服务器内部错误: {str(e)}"}), 500
 
 
@@ -236,7 +314,8 @@ def home():
         "endpoints": {
             "/extract (POST)": "从文本中提取信息。需要 'text' 字段。",
             "/feedback (POST)": "提交提取结果的反馈。需要 'field', 'value', 'correct' 字段。",
-            "/feedback/check_incorrect (POST)": "检查某个字段值是否曾被标记为不正确。需要 'field', 'value' 字段。"
+            "/feedback/check_incorrect (POST)": "检查某个字段值是否曾被标记为不正确。需要 'field', 'value' 字段。",
+            "/feedback/history (POST)": "获取提取记录，并获取相对应的人工评价结果"
         }
     })
 
