@@ -62,5 +62,44 @@
       "scope": 1,
       "marking": 1
     }
+  },
+  "deep learning computer science": {
+    "positive": {
+      "deep": 2,
+      "learning": 2,
+      "base": 3,
+      "detect": 2,
+      "security": 2,
+      "system": 3,
+      "feature": 2,
+      "multi": 1,
+      "scale": 1,
+      "adaptive": 1,
+      "theory": 1,
+      "learn": 1,
+      "field": 1,
+      "evaluation": 1,
+      "computer": 1,
+      "vision": 1,
+      "real": 1,
+      "time": 1,
+      "behavior": 1,
+      "monitor": 1
+    },
+    "negative": {
+      "science": 1,
+      "fall": 1,
+      "learn": 1,
+      "teach": 1,
+      "foreign": 1,
+      "language": 1,
+      "culture": 1,
+      "virtual": 1,
+      "en": 1,
+      "deep": 1,
+      "learning": 1,
+      "material": 1,
+      "complementario": 1
+    }
   }
 }

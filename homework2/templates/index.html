@@ -41,7 +41,7 @@
             const imageInput = document.getElementById('image');
             const topnValue = document.getElementById('topn').value;
 
-            // ✅ 检查是否至少填写了 query 或上传了图片
+            // 检查是否至少填写了 query 或上传了图片
             if (!queryValue && imageInput.files.length === 0) {
                 alert("Please enter a query or upload an image.");
                 return;
@@ -108,8 +108,6 @@
             window.feedback.results = [];
         }
     </script>
-
-
 </body>
 
 </html>
