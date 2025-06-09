@@ -231,7 +231,7 @@ def check_feedback_incorrect():
         return jsonify({"error": f"服务器内部错误: {str(e)}"}), 500
 
 
-@app.route('/history', methods=['POST'])
+@app.route('/feedback/history', methods=['POST'])
 def get_history():
     """
     @request
