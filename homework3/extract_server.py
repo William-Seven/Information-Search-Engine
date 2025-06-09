@@ -43,6 +43,8 @@ def was_incorrect(key):
         return False  # 文件损坏或为空
     # for entry in feedback_data:
     #     if entry["field"] == field and entry["value"] == value and not entry["correct"]:
+    if key not in feedback_data:
+        return True
     if feedback_data[key]["correct"] is True:
         return True
     return False
@@ -219,7 +221,7 @@ def check_feedback_incorrect():
     uuid = data.get('uuid')
     field = data.get('field')
 
-    if field is None is None:
+    if field is None:
         return jsonify({"error": "请求体中缺少 'field'"}), 400
 
     try:
