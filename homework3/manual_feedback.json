@@ -1,107 +1,29 @@
 {
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldTitle": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldAuthors": {
     "correct": true
   },
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldAuthors": {
-    "correct": false
-  },
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldKeywords": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldDOI": {
     "correct": true
   },
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldPublication Date": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldDOIs": {
     "correct": true
   },
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldDescription": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldDescription": {
     "correct": true
   },
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldGitHub Link": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldGitHub Link": {
     "correct": true
   },
-  "uuid:9848d0ce-31a3-49a1-9204-6baf4fdc1946fieldDOI": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldKeywords": {
     "correct": true
   },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldTitle": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldPublication Date": {
     "correct": true
   },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldAuthors": {
-    "correct": false
-  },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldKeywords": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldTitle": {
     "correct": true
   },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldPublication Date": {
-    "correct": true
-  },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldDescription": {
-    "correct": true
-  },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldGitHub Link": {
-    "correct": true
-  },
-  "uuid:c053838f-746f-4f0f-a406-03af066adf64fieldDOI": {
-    "correct": true
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldTitle": {
-    "correct": true
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldAuthors": {
-    "correct": false
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldKeywords": {
-    "correct": true
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldPublication Date": {
-    "correct": true
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldDescription": {
-    "correct": true
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldGitHub Link": {
-    "correct": true
-  },
-  "uuid:1e45ada4-7f49-488c-b0be-2e28f6b4a29dfieldDOI": {
-    "correct": true
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldTitle": {
-    "correct": true
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldAuthors": {
-    "correct": false
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldKeywords": {
-    "correct": true
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldPublication Date": {
-    "correct": true
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldDescription": {
-    "correct": true
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldGitHub Link": {
-    "correct": true
-  },
-  "uuid:3cebc8b8-6a72-436e-9bae-42cb42301618fieldDOI": {
-    "correct": true
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldTitle": {
-    "correct": true
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldAuthors": {
-    "correct": false
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldKeywords": {
-    "correct": true
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldPublication Date": {
-    "correct": true
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldDescription": {
-    "correct": true
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldGitHub Link": {
-    "correct": true
-  },
-  "uuid:b0ccefc6-512d-46e9-9e10-a8538f906159fieldDOI": {
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldURLs": {
     "correct": true
   }
 }
