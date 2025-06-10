@@ -132,13 +132,13 @@ def save_feedback(feedback):
     if isinstance(feedback, dict) and "query" in feedback and "results" in feedback:
         all_evals.append(feedback)
     else:
-        print("⚠️ Unexpected feedback format, skipping.")
+        print("Unexpected feedback format, skipping.")
 
     # 覆盖写入
     with open(save_path, 'w', encoding='utf-8') as f:
         json.dump(all_evals, f, indent=2, ensure_ascii=False)
 
-        # ✨ 新增：提取关键词反馈
+        # 新增：提取关键词反馈
     keywords, *_ = load_index_data()
     update_feedback_keywords(feedback, keywords)
 

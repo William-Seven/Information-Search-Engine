@@ -19,13 +19,14 @@ CUSTOM_STOP_WORDS = {
 }
 
 
-# 加载 spaCy 英文模型（需先运行 python -m spacy download en_core_web_sm）
+# 加载 spaCy 英文模型
 nlp = spacy.load("en_core_web_sm")
 
 # 输入与输出路径
 # DATA_DIR = r"..\zenodo_papers"
-DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'cs_papers')
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), '..', 'processed_docs.json')
+DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'zenodo_papers')
+OUTPUT_PATH = os.path.join(os.path.dirname(
+    __file__), '..', 'processed_docs.json')
 
 
 def clean_html(raw_html):

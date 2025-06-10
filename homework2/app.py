@@ -6,7 +6,6 @@ import tempfile
 
 app = Flask(__name__)
 
-# 如果你在 Windows 上运行 Tesseract，请取消注释并修改路径
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 
