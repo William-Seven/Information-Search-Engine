@@ -44,8 +44,8 @@ def was_incorrect(key):
     # for entry in feedback_data:
     #     if entry["field"] == field and entry["value"] == value and not entry["correct"]:
     if key not in feedback_data:
-        return True
-    if feedback_data[key]["correct"] is True:
+        return False
+    if feedback_data[key]["correct"] is False:
         return True
     return False
 
