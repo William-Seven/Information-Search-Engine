@@ -55,7 +55,7 @@ def run_search(query, top_n=5):
         if word in vocab_index:
             query_vector[i] = raw_query_vector[0, vocab_index[word]]
 
-    # ✨ 读取反馈关键词
+    # 读取反馈关键词
     feedback_path = os.path.join(BASE_DIR, "feedback_keywords.json")
     lowered_query = query.strip().lower()
     if os.path.exists(feedback_path):

@@ -504,5 +504,23 @@
         "relevant": 1
       }
     ]
+  },
+  {
+    "query": "deep learning",
+    "results": [
+      {
+        "title": "Deep Learning Based Detecting Security System",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning",
+    "results": [
+      {
+        "title": "Deep Learning Based Detecting Security System",
+        "relevant": 0
+      }
+    ]
   }
 ]

@@ -119,5 +119,23 @@
       "technology": 1
     },
     "negative": {}
+  },
+  "deep learning": {
+    "positive": {
+      "deep": 1,
+      "learning": 1,
+      "base": 1,
+      "detect": 1,
+      "security": 1,
+      "system": 1
+    },
+    "negative": {
+      "deep": 1,
+      "learning": 1,
+      "base": 1,
+      "detect": 1,
+      "security": 1,
+      "system": 1
+    }
   }
 }
